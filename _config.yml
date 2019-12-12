@@ -1,0 +1,45 @@
+# Site settings
+title: 루우씨의 키토제닉이야기
+tagline: 한국/여성형 키토제닉 생체실험 중
+description: "한국인 여성에게 맞는 키토제닉 식단을 찾고있습니다."
+url: "https://lucyketogenic.com"
+author:
+  name: "루우씨"
+  email: "ketogenic@kakao.com"
+  url: "https://lucyketogenic.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+
+
+permalink: /:title
+paginate: 8
+
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: lucy-ketogenic
