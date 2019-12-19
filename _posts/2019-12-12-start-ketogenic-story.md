@@ -5,7 +5,7 @@ date: 2019-12-12 15:10:00 +09:00
 author: "Lucy"
 permalink: /start-ketogenic-story/
 image:
-  feature: main-lucyketogenic.jpeg
+  feature: main-ketogenic.jpeg
 categories:
   - 키토제닉 시작하기
 tags:
