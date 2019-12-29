@@ -37,4 +37,4 @@ description: 좋아지는 건 잘 몰라도 한동안 안 먹어보면 나빠지
 
 
 
-### [두번째, '비타민 C' 계속보기](https://lucyketogenic.com/vitamin-c/)
+### [다음, '비타민 C' 계속보기](https://lucyketogenic.com/vitamin-c/)

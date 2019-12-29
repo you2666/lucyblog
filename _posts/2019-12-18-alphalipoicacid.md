@@ -43,5 +43,5 @@ description: 알파리포산은 비타민B와 함께 작용하는 강력한 항�
 
 
 
-### [네번째, '비타민E' 계속보기](https://lucyketogenic.com/vitamin-e/)
+### [다음, '비타민E' 계속보기](https://lucyketogenic.com/vitamin-e/)
 
