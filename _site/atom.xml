@@ -4,12 +4,32 @@
  <title>루우씨의 키토제닉이야기</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2019-12-29T18:34:12+09:00</updated>
+ <updated>2020-01-14T16:12:54+09:00</updated>
  <author>
    <name>루우씨</name>
    <uri>https://lucyketogenic.com</uri>
    <email>ketogenic@kakao.com</email>
  </author>
+
+ 
+
+ <entry>
+   <title>사 먹는 vs 만들어먹는 방탄커피</title>
+   <link href="http://localhost:4000/buttercoffee/"/>
+   <id>http://localhost:4000/buttercoffee</id>
+   <updated>2020-01-10T06:00:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/02/buttercoffee-2.jpeg&quot; alt=&quot;키토베이스 방탄커피&quot; /&gt;&lt;/p&gt; &lt;p&gt;이 제품은 체험단으로 받은 상품이다. 오랫동안 저탄고지를 해 온 분들에게 판매하는 건 가짜가 많다고 들었기 때문에(성분표를 봐도 그렇고) 솔직히 방탄커피는 사먹을 생각은 없었지만, 무료로 체험할 수 있게 해준다면야, 너무 감사. 사실, 이 제품에는 앵커&amp;amp;기버터가 쓰였다고 해서 신청한 것도 있다. 근데 이왕이면 달달한 걸로 신청해 볼껄...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Dr.머콜라의 '케톤하는 몸'</title>
+   <link href="http://localhost:4000/fatforfuel/"/>
+   <id>http://localhost:4000/fatforfuel</id>
+   <updated>2020-01-02T06:00:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/02/fatforfuel-1.jpeg&quot; alt=&quot;케톤하는몸1&quot; /&gt;&lt;/p&gt; &lt;p&gt;제 1부는 신진대사에 대한 자세한 이야기라고 하지만 한줄 요약은 ‘미토콘드리아가 중요한 이유’로 구성되어 있고, 제 2부는 미토콘드리아 대사요법으로 건강해 질 수 있는 방법을 다루고 있다. 한국의 저탄고지가 다이어트에 더 많은 초점이 맞춰져 있다면, 이건 정말 자신의 몸을 정확한 측정을 통해 이해하고, 에너지 효율을 개선하기 위한 과학적인...</content>
+ </entry>
 
  
 
@@ -38,7 +58,7 @@
    <link href="http://localhost:4000/vitamin-e/"/>
    <id>http://localhost:4000/vitamin-e</id>
    <updated>2019-12-19T20:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/01/ros.jpg&quot; alt=&quot;활성산소종&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;활성산소종-reactive-oxygen-species-ros&quot;&gt;활성산소종 (reactive oxygen species, ROS)&lt;/h3&gt; &lt;p&gt;노화의 원인이 되는 활성산소는 활성산소종 (reactive oxygen species, ROS)을 말하며 매우 반응성이 높은 화합물이다. 산소를 함유한 프리 라디칼(free radical)을 활성산소라 하며 다양한 종류가 존재한다. 그럼, 프리 라디칼(Free radical)이 뭐냐. 이건 자유기 또는 유리기라고도 하며 원자의 가장 바깥층에 쌍을 이루지 못한...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/01/ros.jpg&quot; alt=&quot;활성산소종&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;활성산소종-reactive-oxygen-species-ros&quot;&gt;활성산소종 (reactive oxygen species, ROS)&lt;/h3&gt; &lt;p&gt;노화의 원인이 되는 활성산소는 활성산소종 (reactive oxygen species, ROS)을 말하며 매우 반응성이 높은 화합물이다. 산소를 함유한 프리 라디칼(free radical)을 활성산소라 하며 다양한 종류가 존재한다. 그럼, 프리 라디칼(Free radical)이란? 이건 자유기 또는 유리기라고도 하며 원자의 가장 바깥층에 쌍을 이루지 못한 전자를...</content>
  </entry>
 
  
@@ -89,16 +109,6 @@
    <id>http://localhost:4000/about-ketogenic</id>
    <updated>2019-12-15T15:10:00+09:00</updated>
    <content type="html">&lt;h3 id=&quot;저탄수화물-고지방-low-carb-high-fat-lchf-식이요법&quot;&gt;저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법&lt;/h3&gt; &lt;p&gt;대부분의 대사질환의 원인은 인슐린 저항성과 관계가 있다. 인슐린 호르몬에 이상이 생기는 것이 당뇨병이니까. 이러한 병의 원인은 과도한 정제탄수화물 섭취로 일어난다고 한다. 당뇨병에 걸리면 완치가 없고, 평생 조심하고 살아야 하는데 저는 가족력이 있기때문에 더더욱 미리 조심해야한다. 우리 어머니역시도 조심하고 있다. ‘저탄고지 식사법은...</content>
- </entry>
-
- 
-
- <entry>
-   <title>블로그를 시작하며</title>
-   <link href="http://localhost:4000/start-ketogenic-story/"/>
-   <id>http://localhost:4000/start-ketogenic-story</id>
-   <updated>2019-12-12T15:10:00+09:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/01/cell.jpg&quot; alt=&quot;세포이미지&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;노화가-진행되는-30대가-되서-그런-거라고&quot;&gt;노화가 진행되는 30대가 되서 그런 거라고?&lt;/h3&gt; &lt;p&gt;나는 똑같이 살았던 것 같은데, 살이 쪘다. 15kg을 찍고, 지금은 10kg 정도. 그래서인지 모르겠지만, 건강이 좋지 않다. 피곤하고, 몸이 아프고, 면역력도 떨어졌고. 또, 기억력이 예전 같지 않다. 카드번호나 계좌번호가 순간순간 기억이 안 날때가 있다. 살은 쪘는데 피부는 오히려 안좋아지고.....</content>
  </entry>
 
  
