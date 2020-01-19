@@ -4,7 +4,7 @@ layout: default
 <article id="post-page">
 	{% if page.image.feature %}
 	  <img src="{{ site.github.url }}/img/thumbnail/{{ page.image.feature }}">
-	{% endif %}	
+	{% endif %}
 	<h2>{{ page.title }}</h2>
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
@@ -14,3 +14,12 @@ layout: default
 	</div>
 </article>
 {% include disqus.html %}
+
+<script>
+	dataLayer.push({
+		'event': 'viewContent',
+		'contentTitle': '{{ page.title }}',
+		'content_Id': '{{ page.contentid }}'
+	});
+</script>
+	<!-- content_Id를 포스팅 파일 디폴트 부분에 (퍼머링크 위에))에 넣어줘야함 -->
