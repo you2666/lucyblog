@@ -8,9 +8,8 @@ permalink: /advantages/
 image:
   feature: cold.jpg
 categories:
-  - 키토제닉 시작하기
-tags:
   - 키토제닉
+tags:
   - 저탄고지
   - LCHF
   - 다이어트

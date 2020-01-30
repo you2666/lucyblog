@@ -4,7 +4,7 @@
  <title>루우씨의 키토제닉이야기</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2020-01-15T20:34:13+09:00</updated>
+ <updated>2020-01-30T16:32:14+09:00</updated>
  <author>
    <name>루우씨</name>
    <uri>https://lucyketogenic.com</uri>
@@ -14,11 +14,21 @@
  
 
  <entry>
+   <title>키토제닉 시작, 여자가 꼭 알아야 할 것</title>
+   <link href="http://localhost:4000/femaleguide/"/>
+   <id>http://localhost:4000/femaleguide</id>
+   <updated>2020-01-17T06:00:00+09:00</updated>
+   <content type="html">&lt;h3 id=&quot;나와-엄마를-위한-키토제닉-정보&quot;&gt;나와 엄마를 위한 키토제닉 정보&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;/img/post/02/duck.jpg&quot; alt=&quot;따라오세요&quot; /&gt;&lt;/p&gt; &lt;p&gt;지식이 없어도 해볼 수 있지만 간단한 정보를 정리해두기로 한다. 키토제닉 식단은 기존의 포도당 대사를 지방산 대사로 전환하기 위해 하기 위해서 진행한다. 지방산 대사 즉, 케토대사가 시작되면 인슐린 민감성이 높아지면서 식욕 조절, 감량, 활력증진의 효과를 경험할 수 있다. 일시적, 단기 다이어트...</content>
+ </entry>
+
+ 
+
+ <entry>
    <title>사 먹는 vs 만들어먹는 방탄커피</title>
    <link href="http://localhost:4000/buttercoffee/"/>
    <id>http://localhost:4000/buttercoffee</id>
    <updated>2020-01-10T06:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/02/buttercoffee-2.jpeg&quot; alt=&quot;키토베이스 방탄커피&quot; /&gt;&lt;/p&gt; &lt;p&gt;이 제품은 체험단으로 받은 상품이다. 오랫동안 저탄고지를 해 온 분들에게 판매하는 건 가짜가 많다고 들었기 때문에(성분표를 봐도 그렇고) 솔직히 방탄커피는 사먹을 생각은 없었지만, 무료로 체험할 수 있게 해준다면야, 너무 감사. 사실, 이 제품에는 앵커&amp;amp;기버터가 쓰였다고 해서 신청한 것도 있다. 근데 이왕이면 달달한 걸로 신청해 볼껄...</content>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/02/buttercoffee.jpeg&quot; alt=&quot;키토베이스 방탄커피&quot; /&gt;&lt;/p&gt; &lt;p&gt;이 제품은 체험단으로 받은 상품이다. 오랫동안 저탄고지를 해 온 분들에게 판매하는 건 가짜가 많다고 들었기 때문에(성분표를 봐도 그렇고) 솔직히 방탄커피는 사먹을 생각은 없었지만, 무료로 체험할 수 있게 해준다면야, 너무 감사. 사실, 이 제품에는 앵커&amp;amp;기버터가 쓰였다고 해서 신청한 것도 있다. 근데 이왕이면 달달한 걸로 신청해 볼껄...</content>
  </entry>
 
  
@@ -29,6 +39,16 @@
    <id>http://localhost:4000/fatforfuel</id>
    <updated>2020-01-02T06:00:00+09:00</updated>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/02/fatforfuel-1.jpeg&quot; alt=&quot;케톤하는몸1&quot; /&gt;&lt;/p&gt; &lt;p&gt;제 1부는 신진대사에 대한 자세한 이야기라고 하지만 한줄 요약은 ‘미토콘드리아가 중요한 이유’로 구성되어 있고, 제 2부는 미토콘드리아 대사요법으로 건강해 질 수 있는 방법을 다루고 있다. 한국의 저탄고지가 다이어트에 더 많은 초점이 맞춰져 있다면, 이건 정말 자신의 몸을 정확한 측정을 통해 이해하고, 에너지 효율을 개선하기 위한 과학적인...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>키토제닉이란? 간헐적 단식같은 건가요?</title>
+   <link href="http://localhost:4000/aboutketogenicdiet/"/>
+   <id>http://localhost:4000/aboutketogenicdiet</id>
+   <updated>2020-01-01T16:00:00+09:00</updated>
+   <content type="html">&lt;h3 id=&quot;저탄수화물-고지방-다이어트와-간헐적-단식&quot;&gt;저탄수화물 고지방 다이어트와 간헐적 단식&lt;/h3&gt; &lt;p&gt;키토제닉 다이어트, 즉 저탄고지는 탄수화물의 섭취를 줄이면 혈당이 급격하게 오르지 않게되어, 혈당을 조절하는 호르몬인 인슐린의 분비를 낮출 수 있다. 줄어든 탄수화물 만큼의 에너지원을 지방으로 섭취하면 우리의 몸은 지방을 에너지원으로 사용한다. 간헐적 단식의 경우도 동일하게 인슐린의 분비를 낮추고, 지방을 에너지원으로 사용한다. 즉, 단식을 하게 되면...</content>
  </entry>
 
  
@@ -89,26 +109,6 @@
    <id>http://localhost:4000/brewersyeast</id>
    <updated>2019-12-16T15:00:00+09:00</updated>
    <content type="html">&lt;p&gt;20대 중반부터 건강기능성식품을 아이허브를 꾸준히 이용했다. 그 당시엔 직구였는데, 지금은 많이 편해졌다. 처음 챙겨먹게 되면 한 두번이나 좀 다른가 싶지 먹다보면 좋은지 안 좋은지를 잘 몰랐다. 그러나 한동안 안 먹어보면 나빠지는 걸 느낄수 있어서 몇 달 지나지 않아 곧 다시 챙겨먹게 되는 그런 개미지옥이 바로 건강기능성식품이다. 안먹은 사람은 있어도 한...</content>
- </entry>
-
- 
-
- <entry>
-   <title>저탄고지의 장점</title>
-   <link href="http://localhost:4000/advantages/"/>
-   <id>http://localhost:4000/Advantages</id>
-   <updated>2019-12-15T20:00:00+09:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/post/01/headache.jpg&quot; alt=&quot;두통&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;저탄수화물-고지방식-lchf-의-장점&quot;&gt;저탄수화물 고지방식 (LCHF) 의 장점&lt;/h3&gt; &lt;ol&gt; &lt;li&gt; &lt;p&gt;근육은 유지하며, 체지방만 감소&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;뇌 리부트, 명료한 정신&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;충만한 에너지&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;배고픔이 없음&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;자기면역질환 호전 및 염증 억제&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;숙면에 도움&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;만성피로의 호전&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;근력, 근지구력의 상승&lt;/p&gt;...</content>
- </entry>
-
- 
-
- <entry>
-   <title>저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법</title>
-   <link href="http://localhost:4000/about-ketogenic/"/>
-   <id>http://localhost:4000/about-ketogenic</id>
-   <updated>2019-12-15T15:10:00+09:00</updated>
-   <content type="html">&lt;h3 id=&quot;저탄수화물-고지방-low-carb-high-fat-lchf-식이요법&quot;&gt;저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법&lt;/h3&gt; &lt;p&gt;대부분의 대사질환의 원인은 인슐린 저항성과 관계가 있다. 인슐린 호르몬에 이상이 생기는 것이 당뇨병이니까. 이러한 병의 원인은 과도한 정제탄수화물 섭취로 일어난다고 한다. 당뇨병에 걸리면 완치가 없고, 평생 조심하고 살아야 하는데 저는 가족력이 있기때문에 더더욱 미리 조심해야한다. 우리 어머니역시도 조심하고 있다. ‘저탄고지 식사법은...</content>
  </entry>
 
  
