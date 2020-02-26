@@ -1,22 +1,20 @@
 ---
 layout: post
-title: 불릿프루프(bulletproof), 방탄커피란?
-date: 2019-12-24 20:00:00 +09:00
-author: "Lucy"
-content_Id: 9
 permalink: /bulletproof/
-image:
-  feature: bulletproof.jpeg
+title: '불릿프루프(bulletproof), 방탄커피란?'
+date: 2019-12-24 20:00:00 +09:00
+content_Id: 9
+feature: '/img/thumbnail/headstrong.jpeg'
+background: '/img/posts/01/bg_heosang-jeon.jpg'
 categories:
-  - 방탄커피
+  - ketogenic
 tags:
-  - 건강
-  - 다이어트
-  - 케토시스
+  - 키토제닉
+  - 저탄고지
+  - 두뇌부스팅
   - 목초버터
   - MCT오일
-description: 아스프리가 말하는 불릿프루프(bulletproof, 완결무결 혹은 방탄) 커피란 오염되지 않은 블랙커피에 목초를 먹인 소의 우유로 만든 버터와 브레인 옥테인 오일을 블렌딩해 만든 커피이다. 뇌 기능을 활성화하고, 폴리페놀을 최대한으로 흡수하기 위해 직접 창시한 음식이다.
-
+description: '아스프리가 창시한 불릿프루프(bulletproof, 완결무결 혹은 방탄) 커피란 오염되지 않은 블랙커피에 목초를 먹인 소의 우유로 만든 버터와 브레인 옥테인 오일을 블렌딩해 만든 커피로 뇌 기능을 활성화하고, 폴리페놀을 최대한으로 흡수하기 위한 음식이다.'
 ---
 
 

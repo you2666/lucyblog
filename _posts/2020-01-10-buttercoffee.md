@@ -1,23 +1,21 @@
 ---
 layout: post
-title: 사 먹는 vs 만들어먹는 방탄커피
-date: 2020-01-10 06:00:00 +09:00
-author: "Lucy"
-content_Id: 12
 permalink: /buttercoffee/
-image:
-  feature: cafe.jpg
+title: '사 먹는 vs 만들어먹는 방탄커피'
+date: 22020-01-10 06:00:00 +09:00
+content_Id: 12
+feature: '/img/thumbnail/cafe.jpg'
+background: '/img/posts/01/bg_heosang-jeon.jpg'
 categories:
-  - 방탄커피
+  - ketogenic
 tags:
-  - 건강
-  - 다이어트
-  - 케토시스
+  - 키토제닉
+  - 저탄고지
+  - 두뇌부스팅
   - 목초버터
-description: 가루로 된 방탄커피는 모두 제대로 된 제품이 아니다. 그리고 사먹는 방탄커피 중에도 제대로 된 제품이 없다고 알고 있었는데, 저탄고지 카페에서 적극적으로 마케팅 하는 걸 허락할 걸 보면 생각이 많아진다. 아스프리가 말하는 건 그런 커피가 아닐텐데 하는 생각. 왜냐면 판매 제품에는 유화제가 들어 있기 때문이다.
+  - MCT오일
+description: '가루로 된 방탄커피는 모두 제대로 된 제품이 아니다. 그리고 사먹는 방탄커피 중에도 제대로 된 제품이 없다고 알고 있었는데, 저탄고지 카페에서 적극적으로 마케팅 하는 걸 허락할 걸 보면 생각이 많아진다.'
 ---
-
-
 
 ![키토베이스 방탄커피](/img/post/02/buttercoffee.jpeg)
 

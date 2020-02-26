@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Dr.머콜라의 '케톤하는 몸'
-date: 2020-01-02 06:00:00 +09:00
-author: "Lucy"
-content_Id: 11
 permalink: /fatforfuel/
-image:
-  feature: fatforfuel.jpeg
+title: 'Dr.머콜라의 <케톤하는 몸>
+date: 2020-01-02 06:00:00 +09:00
+content_Id: 11
+feature: '/img/thumbnail/fatforfuel.jpeg'
+background: '/img/posts/01/bg_heosang-jeon.jpg'
 categories:
-  - 건강책리뷰
+  - ketogenic
+  - bookreview
 tags:
-  - 건강
-  - 다이어트
-  - 케토시스
-  - 목초버터
-description: 의학박사이자 세계적인 키토제닉 전문가 닥터 머콜라의 '케톤하는 몸(fatforfuel)'을 읽게 되었다. 한국의 저탄고지 이영훈 안과 전문의가 감수한 이 책은 한 마디로 요약하면 '자신의 미토콘드리아를 바로 알고 대사요법으로 건강하기'가 되겠다. 아스프리와는 큰 그림에서는 비슷하지만, 더 엄격한 식단인 느낌이다.
-
+  - 키토제닉
+  - 저탄고지
+  - LCHF
+  - 신진대사
+  - 미토콘드리아
+description: '의학박사이자 세계적인 키토제닉 전문가 닥터 머콜라의 '케톤하는 몸(fatforfuel)'을 한 마디로 요약하면 '자신의 미토콘드리아를 바로 알고 대사요법으로 건강하기'가 되겠다. 아스프리와는 큰 그림에서는 비슷하지만, 더 엄격한 느낌이다.'
 ---
 
 

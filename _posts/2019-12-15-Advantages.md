@@ -1,20 +1,19 @@
 ---
 layout: post
-title: 저탄고지의 장점
-date: 2019-12-15 20:00:00 +09:00
-author: "Lucy"
-content_Id: 3
 permalink: /advantages/
-image:
-  feature: cold.jpg
+title: '저탄고지의 장점'
+date: 2019-12-15 20:00:00 +09:00
+content_Id: 3
+feature: '/img/thumbnail/cold.jpg'
+background: '/img/posts/01/bg_heosang-jeon.jpg'
 categories:
-  - 키토제닉
+  - ketogenic
 tags:
+  - 키토제닉
   - 저탄고지
   - LCHF
-  - 다이어트
-  - 인지능력
-description: 저탄고지는 세상의 모든 탄수화물이 나쁘다는 것은 아니다. 정제 탄수화물이 좋지 않다는 건데, 대표적으로는 설탕과 밀가루가 되겠다. 저탄고지는 탄수화물을 적게 섭취하는 대신 지방으로 나머지 칼로리를 채워주는 식단이다. 참고로 여자는 호르몬의 영향을 피할 수 없어서 엄격한 식단은 추천하지 않는다.
+  - 두뇌부스팅
+description: '정제 탄수화물이 인체에 좋지 않다는 건데, 대표적으로는 설탕과 밀가루가 되겠다. 저탄고지는 탄수화물을 적게 섭취하는 대신 지방으로 나머지 칼로리를 채워주는 식단이며, 여성에게는 엄격한 식단은 추천하지 않는다.'
 ---
 
 ![두통](/img/post/01/headache.jpg)

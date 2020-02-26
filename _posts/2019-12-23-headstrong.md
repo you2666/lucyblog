@@ -1,22 +1,21 @@
 ---
 layout: post
-title: 헤드스트롱(headstrong), 2주 프로그램
-date: 2019-12-23 20:00:00 +09:00
-author: "Lucy"
-content_Id: 8
 permalink: /headstrong/
-image:
-  feature: headstrong.jpeg
+title: '헤드스트롱(headstrong), 2주 프로그램'
+date: 2019-12-23 20:00:00 +09:00
+content_Id: 8
+feature: '/img/thumbnail/headstrong.jpeg'
+background: '/img/posts/01/bg_heosang-jeon.jpg'
 categories:
-  - 건강책리뷰
+  - ketogenic
+  - bookreview
 tags:
-  - 건강
-  - 다이어트
-  - 두뇌회복
-  - 인지능력개선
+  - 키토제닉
+  - 저탄고지
+  - LCHF
+  - 두뇌부스팅
   - 목초버터
-description: 나를 키토제닉의 세계에 들어오게 한 데이브 아스프리의 '헤드스트롱'이다. 정전상태, 즉 번아웃된 뇌 기능을 회복시키는 방법이 나와 있으며, 작년 독서 모임에서 본 몇 개의 뇌 과학책 중 한가지 였다. 난 새로운 진리를 깨달은 듯했는데, 다른 분들은 별 관심이 없어서, 생체실험을 해보고 결과를 알려주기로.
-
+description: '나를 키토제닉의 세계에 들어오게 한 데이브 아스프리의 '헤드스트롱'이다. 정전상태, 즉 번아웃된 뇌 기능을 회복시키는 방법을 보고 나는 마치 진리를 깨달은 듯했는데, 다른 사람은 별 관심이 없어서, 내가 해보고 결과를 알려주기로 했다.'
 ---
 
 ### 헤드스트롱을 만나다
