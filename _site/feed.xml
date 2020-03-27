@@ -1,8 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-07T10:24:14+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">루우씨의 키토제닉이야기</title><subtitle>두뇌를 리부트 하기위해 나에게 맞는 저탄고지 식단을 찾고있습니다.</subtitle><author><name>루우씨</name><email>ketogenic@kakao.com</email></author><entry><title type="html">키토제닉 시작, 여자가 꼭 알아야 할 것</title><link href="http://localhost:4000/femaleguide/" rel="alternate" type="text/html" title="키토제닉 시작, 여자가 꼭 알아야 할 것" /><published>2020-01-17T06:00:00+09:00</published><updated>2020-01-17T06:00:00+09:00</updated><id>http://localhost:4000/femaleguide</id><content type="html" xml:base="http://localhost:4000/femaleguide/">&lt;h3 id=&quot;나와-엄마를-위한-키토제닉-정보&quot;&gt;나와 엄마를 위한 키토제닉 정보&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>키토제닉이야기</title>
+    <description>뇌를 더 효율적으로 사용하고, 더 건강하기 위해 저탄고지 식단을 실천하고 있습니다.</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 27 Mar 2020 20:41:05 +0900</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2020 20:41:05 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>키토제닉 시작, 여자가 알아야 할 것</title>
+        <description>&lt;h3 id=&quot;여성엄마와-나를-위한-키토제닉-정보&quot;&gt;여성(엄마와 나)를 위한 키토제닉 정보&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/post/02/duck.jpg&quot; alt=&quot;따라오세요&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;지식이 없어도 해볼 수 있지만 간단한 정보를 정리해두기로 한다. 키토제닉 식단은 기존의 포도당 대사를 지방산 대사로 전환하기 위해 하기 위해서 진행한다. 지방산 대사 즉, 케토대사가 시작되면 인슐린 민감성이 높아지면서 식욕 조절, 감량, 활력증진의 효과를 경험할 수 있다. 일시적, 단기 다이어트 식단이 아니며, 라이프 스타일이 바뀌는 생활 습관에 더 가깝다고 할 수 있다. 섭취하는 기본 식단을 100으로 봤을때, 단백질 20, 탄수화물 10, 지방 70의 비율을 추천한다. 섭취를 피해야 할 것은 정제된 당 즉, 과당, 설탕, 과일, 카놀라유, 콩기름, 해바라기씨유, 포토씨유와 같은 식물성 기름이다. 또, 술 섭취 역시 지양한다. 우리 몸에 들어오는 알코올을 분해하기 위해서 몸음 비상상태가 되고 케톤대사를 꺼버리기 때문이다. 맥주나 막걸리, 소주와 같은 술은 절대 안되고, 피할 수 없는 자리에서는 위스키나 사케, 고량주와 같은 증류주를 추천한다. 버터와 라드 등의 포화지방과 피쉬오일 등의 불포화 지방, 데치거나 발효한 채소 섭취는 늘린다. 백미와 고구마 최대 80-150g 상한선을 두고 섭취한다.&lt;/p&gt;
+&lt;p&gt;사실은 주변에 잘 아는 사람이 있으면, 옆에 있는 나는 지식이 없어도 해볼 수 있지만 내 주변엔 아무래도 내가 그 사람 1이 되어야할 것 같다. 그래서 간단한 정보를 정리해두기로 한다. 키토제닉 식단은 기존의 포도당 대사를 지방산 대사로 전환하기 위해 하기 위해서 진행한다. 지방산 대사 즉, 케토대사가 시작되면 인슐린 민감성이 높아지면서 식욕 조절, 감량, 활력증진의 효과를 경험할 수 있다. 일시적, 단기 다이어트 식단이 아니며, 라이프 스타일이 바뀌는 생활 습관에 더 가깝다고 할 수 있다. 섭취하는 기본 식단을 100으로 봤을때, 단백질 20, 탄수화물 10, 지방 70의 비율을 추천한다. 섭취를 피해야 할 것은 정제된 당 즉, 과당, 설탕, 과일, 카놀라유, 콩기름, 해바라기씨유, 포토씨유와 같은 식물성 기름이다. 또, 술 섭취 역시 지양한다. 우리 몸에 들어오는 알코올을 분해하기 위해서 몸음 비상상태가 되고 케톤대사를 꺼버리기 때문이다. 맥주나 막걸리, 소주와 같은 술은 절대 안되고, 피할 수 없는 자리에서는 위스키나 사케, 고량주와 같은 증류주를 추천한다. 버터와 라드 등의 포화지방과 피쉬오일 등의 불포화 지방, 데치거나 발효한 채소 섭취는 늘린다. 백미와 고구마 최대 80-150g 상한선을 두고 섭취한다.&lt;/p&gt;
 
 &lt;h3 id=&quot;체중은-수분이-좌우한다&quot;&gt;체중은 수분이 좌우한다&lt;/h3&gt;
 
@@ -42,25 +55,31 @@
 
 &lt;p&gt;만성 피로, 식욕 부진, 추위, 변비, 생리불순 - 갑상선&lt;/p&gt;
 
-&lt;p&gt;근육약화, 구토, 빈혈, 부종 - 부신&lt;/p&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="다이어트" /><category term="케토시스" /><category term="목초버터" /><summary type="html">나와 엄마를 위한 키토제닉 정보</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22femaleguide.jpg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22femaleguide.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">사 먹는 vs 만들어먹는 방탄커피</title><link href="http://localhost:4000/buttercoffee/" rel="alternate" type="text/html" title="사 먹는 vs 만들어먹는 방탄커피" /><published>2020-01-10T06:00:00+09:00</published><updated>2020-01-10T06:00:00+09:00</updated><id>http://localhost:4000/buttercoffee</id><content type="html" xml:base="http://localhost:4000/buttercoffee/">&lt;p&gt;&lt;img src=&quot;/img/post/02/buttercoffee.jpeg&quot; alt=&quot;키토베이스 방탄커피&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;근육약화, 구토, 빈혈, 부종 - 부신&lt;/p&gt;
 
-&lt;p&gt;이 제품은 체험단으로 받은 상품이다. 오랫동안 저탄고지를 해 온 분들에게 판매하는 건 가짜가 많다고 들었기 때문에(성분표를 봐도 그렇고) 솔직히 방탄커피는 사먹을 생각은 없었지만, 무료로 체험할 수 있게 해준다면야, 너무 감사. 사실, 이 제품에는 앵커&amp;amp;기버터가 쓰였다고 해서 신청한 것도 있다. 근데 이왕이면 달달한 걸로 신청해 볼껄 하는 생각이 든다. 달지 않은 건 내가 더 잘 만들어 먹을 수 있는데 왜.. 안 단걸로 신청했을까. 참고로 달콤한 제품에는 액상 알룰로스와 에리스리톨이 들어 있다고 한다. 그리고 이 달지 않은 제품은 먹어본 적 없는 기버터 때문인지 내가 아는 방탄커피 맛이 아니라 선호도는 떨어졌다. 몸에 안좋으면 맛있어야 하는데, 맛이 없는 걸 보면.. 사실은 몸에 엄청 좋은건가 싶고. 가장 큰 장점은 간편하고, 차갑게 먹을 수 있다는 것. 난 얼죽아 파인데 방탄커피는 따숩게 마셔야해서 사실.. 좀..&lt;/p&gt;
-
-&lt;h3 id=&quot;판매-중인-방탄커피&quot;&gt;판매 중인 방탄커피&lt;/h3&gt;
-
-&lt;p&gt;국민들의 삶이 팍팍해진다고는 하지만, 다른 사람의 시간을 돈으로 사기에 가장 쉬운나라는 한국이라는 생각이 든다. 미국에서는 돈이 있어도 배달시킬 수 없는 게 얼마나 많은데.. 한국에서는 세상 모든게 배달되고, 쇼핑몰에서 주문을 해도 좁은 나라라 사실 하루 이틀이면 오는데 그 마저도 못 기다리는 사람을 위해 더 빠른 샛별배송이니 새벽배송이니 하고 있으니까. 그런데 이렇게 저탄고지가 인기가 많아졌으니 당연히 관련 상품도 쏟아져 나왔고, 시중에 많은 가루/액상 방탄커피가 판매 중이다. 두 종류를 먹어봤는데 만드는 것보다는 성분은 둘째 치고 맛이 없었다. 아스프리가 추천하는 진짜 식품도 아니긴 하지만 사실은 맛이 없어서 안먹는 게 더 큰 것 같다. 이 제품은 버터맛이 너무 강해서 내가 평소 먹는 방탄커피에 버터를 적게 넣는 건가 싶기도 했다. 네이버에만 검색해도 나오는 판매 중인 방탄커피 브랜드는 닥터키토, 바날라, 굿브라더스,  마이노멀, 키토랩, 가베온, 키토제니, 키토베이스 등 많다. 액상도 있고, 가루도 있다. 결정적으로.. 대량생산해서 파는 상품에는 원료가 그렇게 좋을 수 없을 것 같다. 그나마 키토베이스가 앵커버터라고 해서 구매했는데 기버터는 또 다른 풍미여서, 적응을 못하겠다. 나는 유당에 민감하지 않으니까 기버터는 먹지 않는걸로…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post/02/buttercoffee-6.jpeg&quot; alt=&quot;방탄커피만들기&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;방탄커피-저렴하게-만들어-먹기---준비물&quot;&gt;방탄커피 저렴하게 만들어 먹기 - 준비물&lt;/h3&gt;
-
-&lt;p&gt;방탄커피를 만들어 먹기위해서는 다음과 같은 준비물이 필요하다. 커피는 100개에 7,000원 대에 구매할 수 있는 &lt;a href=&quot;https://coupa.ng/bmdTM6&quot;&gt;G7 블랙&lt;/a&gt;으로, 버터는 목초버터 중에 가성비가 가장 좋은 6천원 대 &lt;a href=&quot;https://coupa.ng/bmdTc7&quot;&gt;앵커버터&lt;/a&gt; 또는 개별 포장되어 있어서 더 편리하지만 비싼 &lt;a href=&quot;https://coupa.ng/bmdTx5&quot;&gt;앵커포션버터&lt;/a&gt;를 준비한다. 마지막으로 코코넛오일은 개인 지갑사정이 되는 대로 좋은 제품을 선택하면 된다. 가격 상관없다면, 브레인옥테인 오일이 가장 좋은데.. 한국에서는 너무 비싸니까 직구하길 추천한다. 코스트코에서 판매하는 제품도 괜찮다. C8가 많이 들어 있는 제품을 선택하길 추천하며, 그 중에서 무향에 좋은 제품으로는 &lt;a href=&quot;https://coupa.ng/bmdVOA&quot;&gt;키스마이키토&lt;/a&gt;가 있다. 정작 나는 코코넛 향이 좋아서 코코넛 오일을 넣어 먹고 있긴 한데, 다 먹으면 무향도 사봐야겠다. 몸에 좋다고 하니까 음식에도 넣어 봤는데 코코넛 향이 너무 강해서 맛이 이상해지더라. 방탄커피용으로만 써서 소진속도가 아쉬운 것은 사실이다. 참, 마지막으로 중요한 것은 &lt;a href=&quot;https://coupa.ng/bmdYjK&quot;&gt;핸드블랜더&lt;/a&gt;이다. 곱게 갈아야 방탄커피의 시그니처인 라떼 색상이 나오는데 그게 미셀화의 지표라고 볼 수 있다. 이 미쉘화는 불용성 지방산들을 수용성으로 만들어 주는 역할로 우리 몸에서는 간이 그 작용을 도와준다고 하는데 이왕 먹을거니까 더 흡수 잘 되는 형태로 먹는 게 더 좋다. (그냥 흔들어서 먹으면 입자가 커서 흡수가 안된다는 이야기도 있다.) 참고로 아스프리가 영감을 얻은 티베트 유목민족도 믹서기와 버터제조기를 갖고 다닌다고 한다. 그들은 간편한 짐이 우선일 텐데도…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/post/02/buttercoffee-7.jpeg&quot; alt=&quot;방탄커피만들기&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;방탄커피-저렴하게-만들어-먹기---만들기&quot;&gt;방탄커피 저렴하게 만들어 먹기 - 만들기&lt;/h3&gt;
-
-&lt;p&gt;앵커버터 1-2큰술(10-30g)과 블랙커피 한 포, MCT 오일 1-2작은술(5-10ml)를 넣는다. 뜨거운 물 100ml를 넣고, 잘 저어준다. 금방 녹겠지만 층이 분리되고, 버터는 위에 둥둥 떠 있을 것이다. 이때 피료한게 바로 핸드블랜더. 잘 섞어준다. 물론 나는 텀블러에 담아서 쉐킷쉐킷 해서 먹을 데가 더 많다. 혼자 먹으려고 만들기엔 설거지가 나오는게 귀찮아서… 같이 저탄고지 식이요법을 할 동거인을 구하고 싶어하는 중. 서울 어딘가에 몇 명은 있지 않을까.&lt;/p&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="다이어트" /><category term="케토시스" /><category term="목초버터" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22cafe.jpg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22cafe.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dr.머콜라의 ‘케톤하는 몸’</title><link href="http://localhost:4000/fatforfuel/" rel="alternate" type="text/html" title="Dr.머콜라의 '케톤하는 몸'" /><published>2020-01-02T06:00:00+09:00</published><updated>2020-01-02T06:00:00+09:00</updated><id>http://localhost:4000/fatforfuel</id><content type="html" xml:base="http://localhost:4000/fatforfuel/">&lt;p&gt;&lt;img src=&quot;/img/post/02/fatforfuel-1.jpeg&quot; alt=&quot;케톤하는몸1&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Jan 2020 06:00:00 +0900</pubDate>
+        <link>http://localhost:4000//buttercoffee/</link>
+        <guid isPermaLink="true">http://localhost:4000//buttercoffee/</guid>
+        
+        <category>키토제닉</category>
+        
+        <category>저탄고지</category>
+        
+        <category>두뇌부스팅</category>
+        
+        <category>목초버터</category>
+        
+        <category>MCT오일</category>
+        
+        
+        <category>ketogenic</category>
+        
+      </item>
+    
+      <item>
+        <title>Dr.머콜라의 &lt;케톤하는 몸&gt;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post/02/fatforfuel-1.jpeg&quot; alt=&quot;케톤하는몸1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;제 1부는 신진대사에 대한 자세한 이야기라고 하지만 한줄 요약은 ‘미토콘드리아가 중요한 이유’로 구성되어 있고, 제 2부는 미토콘드리아 대사요법으로 건강해 질 수 있는 방법을 다루고 있다. 한국의 저탄고지가 다이어트에 더 많은 초점이 맞춰져 있다면, 이건 정말 자신의 몸을 정확한 측정을 통해 이해하고, 에너지 효율을 개선하기 위한 과학적인 방법을 알려준다. 이 책에서도 아스프리가 말하는 오염되지 않은 블랙커피에 목초를 먹인 소의 우유로 만든 버터와 브레인 옥테인 오일을 블렌딩해 만든 방탄커피를 추천하고 있다.&lt;/p&gt;
 
@@ -88,7 +107,32 @@
 
 &lt;h3 id=&quot;dr-조셉-머콜라-책-감상-총평&quot;&gt;Dr. 조셉 머콜라 책 감상 총평&lt;/h3&gt;
 
-&lt;p&gt;그 동안 너무 많은 지방/저탄고지 책을 구매한 관계로 오히려 읽는 속도가 너무 느렸다. 사실은 게으름 때문이겠지만, 이 책을 쓴 이유가 마음에 들었는데.. 심각한 건강 문제가 생겼거나, 최상의 건강 상태를 원하는 독자를 위해 썼다고 밝히고 있다. 아스프리 책을 봐서 알게 된 방탄커피와 저탄고지가 이렇게까지 많은 사람들이 이미 연구하고, 삶에 적용하고 있었다는 사실이 놀라웠다. 대사증후군에 많은 초점이 맞춰져 있어서, 왜 해야하는지, 어떻게 정확한 측정을 해야하는지를 강조하고 있다고 생각한다. 하지만, 나는 병을 고치는 전문가는 의사라고 생각하기 때문에 머콜라의 식이요법이 백프로 맞다는 생각은 들지 않았다. 그리고 미국이랑 달리 한국은 의료보험이 잘 되어 있어 병원에 가는게 그렇게 부담되는 건 또 아니니까. 잘 적용할 수 있다면 정말 좋겠지만, 저탄고지보다 훨씬 더 어려운 미토콘드리아 대사요법은 당장에 시도하기엔 힘들 것 같다. 병원에 다니고 있지만 몸이 나아지지 않는다면, 혹은 내 몸에 대해 정확하게 알고, 적용하고 변화를 관찰하고 싶은 분이라면 미토콘드리아 대사요법이 도움이 될 것 같다.&lt;/p&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="다이어트" /><category term="케토시스" /><category term="목초버터" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22fatforfuel.jpeg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22fatforfuel.jpeg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">키토제닉이란? 간헐적 단식같은 건가요?</title><link href="http://localhost:4000/aboutketogenicdiet/" rel="alternate" type="text/html" title="키토제닉이란? 간헐적 단식같은 건가요?" /><published>2020-01-01T16:00:00+09:00</published><updated>2020-01-01T16:00:00+09:00</updated><id>http://localhost:4000/aboutketogenicdiet</id><content type="html" xml:base="http://localhost:4000/aboutketogenicdiet/">&lt;h3 id=&quot;저탄수화물-고지방-다이어트와-간헐적-단식&quot;&gt;저탄수화물 고지방 다이어트와 간헐적 단식&lt;/h3&gt;
+&lt;p&gt;그 동안 너무 많은 지방/저탄고지 책을 구매한 관계로 오히려 읽는 속도가 너무 느렸다. 사실은 게으름 때문이겠지만, 이 책을 쓴 이유가 마음에 들었는데.. 심각한 건강 문제가 생겼거나, 최상의 건강 상태를 원하는 독자를 위해 썼다고 밝히고 있다. 아스프리 책을 봐서 알게 된 방탄커피와 저탄고지가 이렇게까지 많은 사람들이 이미 연구하고, 삶에 적용하고 있었다는 사실이 놀라웠다. 대사증후군에 많은 초점이 맞춰져 있어서, 왜 해야하는지, 어떻게 정확한 측정을 해야하는지를 강조하고 있다고 생각한다. 하지만, 나는 병을 고치는 전문가는 의사라고 생각하기 때문에 머콜라의 식이요법이 백프로 맞다는 생각은 들지 않았다. 그리고 미국이랑 달리 한국은 의료보험이 잘 되어 있어 병원에 가는게 그렇게 부담되는 건 또 아니니까. 잘 적용할 수 있다면 정말 좋겠지만, 저탄고지보다 훨씬 더 어려운 미토콘드리아 대사요법은 당장에 시도하기엔 힘들 것 같다. 병원에 다니고 있지만 몸이 나아지지 않는다면, 혹은 내 몸에 대해 정확하게 알고, 적용하고 변화를 관찰하고 싶은 분이라면 미토콘드리아 대사요법이 도움이 될 것 같다.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Jan 2020 06:00:00 +0900</pubDate>
+        <link>http://localhost:4000//fatforfuel/</link>
+        <guid isPermaLink="true">http://localhost:4000//fatforfuel/</guid>
+        
+        <category>키토제닉</category>
+        
+        <category>저탄고지</category>
+        
+        <category>LCHF</category>
+        
+        <category>신진대사</category>
+        
+        <category>미토콘드리아</category>
+        
+        
+        <category>ketogenic</category>
+        
+        <category>bookreview</category>
+        
+      </item>
+    
+      <item>
+        <title>키토제닉이란? 간헐적 단식같은 건가요?</title>
+        <description>&lt;h3 id=&quot;저탄수화물-고지방-다이어트와-간헐적-단식&quot;&gt;저탄수화물 고지방 다이어트와 간헐적 단식&lt;/h3&gt;
 
 &lt;p&gt;키토제닉 다이어트, 즉 저탄고지는 탄수화물의 섭취를 줄이면 혈당이 급격하게 오르지 않게되어, 혈당을 조절하는 호르몬인 인슐린의 분비를 낮출 수 있다. 줄어든 탄수화물 만큼의 에너지원을 지방으로 섭취하면 우리의 몸은 지방을 에너지원으로 사용한다. 간헐적 단식의 경우도 동일하게 인슐린의 분비를 낮추고, 지방을 에너지원으로 사용한다. 즉, 단식을 하게 되면 포도당이 몸 속에 들어오지 않게 되니, 혈당이 낮아지고, 인슐린 분비는 감소, 글루카곤의 분비는 증가한다. 간과 근육에 저장해 놓은 글리코겐을 모두 사용하게 되면 그때부터 지방을 에너지원으로 사용한다. 즉, 두 가지 모두 몸을 케토시스 상태로 만들어 지방을 대사에 사용한한다는 점이 동일하다. 다만, 간헐적 단식은 섭취를 안하는 거니까 인슐린의 영향이 없지만, 저탄고지는 단백질을 섭취해서 인슐린에 영향이 있다는 점이 차이라고 할 수 있다. 간헐적단식이 더 쉽게 케토시스 상태로 들어갈 수 있도록 돕는 것은 사실이다. 저탄고지의 강화 버전이라고 이해하면 되지만, 굳이 억지로(배고픔을 참아가며) 하지 말라고 권고한다.&lt;/p&gt;
 
@@ -104,7 +148,26 @@
 
 &lt;h3 id=&quot;키토제닉-라이프의-첫-시작은-설탕을-제한하는-것-부터&quot;&gt;키토제닉 라이프의 첫 시작은 설탕을 제한하는 것 부터&lt;/h3&gt;
 
-&lt;p&gt;설탕만 끊어도 혈당이 안정화되며, 체중이 감량되고, 인슐린 수치에 균형이 생긴다. 만성 통증과 피부가 개선되는 것도 설탕을 끊은 후 경험해 볼 수 있다. 처음 시작부터 엄격한 식단을 하긴엔 쉽지 않고, 막막할 거라고 생각한다. 하나씩 적용하길 추천한다. 처음 한 달은 정제된 설탕과 과당이 들어간 음식, 과일은 먹지 않는다. 즉, 단맛이 느껴지는 음식, 디저트, 음료 등을 피하는 식단을 추천한다. 생각보다 우리는 정말 많은 당분속에 놓여있다. 밀가루도 금물. 성분표 속 당분 확인하는 습관도 같이 만들어 보자. 포도당, 과당, 자당, 엿당, 젖당, 우선당, 녹말 등은 모두 당분 종류이다. 당을 끊는 다고해서 허기를 참으라는 이야기는 아니다. 질 좋은 영양분으로 충분히 먹으면 된다. 대체 설탕인 에리스리톨,스테비아를 사용할 수 있지만, 많이 사용하면 뇌를 흥분시키므로 불가피한 경우 소량만 사용하기를 권한다. 배고픔을 참지 않고 다른 영양소를 충분히 보충해 준다면, 당분에 대한 갈망이 줄어 들고, 더 이상 단음식이 당기지 않는다. 당분 없이도 충분히 즐거운 기분, 게다가 몸도 한결 가벼워졌을 수도 있다. 이제 드디어, 키토제닉 세계로 입문을 준비한 것이다. 이제, 매끼 단백질, 몸에 좋은 지방으로 식사를 한다면, 식사량도 줄어든다.&lt;/p&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="다이어트" /><category term="케토시스" /><category term="간헐적단식" /><summary type="html">저탄수화물 고지방 다이어트와 간헐적 단식</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22ketogenicdiet.jpg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22ketogenicdiet.jpg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">불릿프루프(bulletproof), 방탄커피란?</title><link href="http://localhost:4000/bulletproof/" rel="alternate" type="text/html" title="불릿프루프(bulletproof), 방탄커피란?" /><published>2019-12-24T20:00:00+09:00</published><updated>2019-12-24T20:00:00+09:00</updated><id>http://localhost:4000/bulletproof</id><content type="html" xml:base="http://localhost:4000/bulletproof/">&lt;p&gt;&lt;img src=&quot;/img/post/01/bulletproofcoffee.jpg&quot; alt=&quot;방탄커피&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;설탕만 끊어도 혈당이 안정화되며, 체중이 감량되고, 인슐린 수치에 균형이 생긴다. 만성 통증과 피부가 개선되는 것도 설탕을 끊은 후 경험해 볼 수 있다. 처음 시작부터 엄격한 식단을 하긴엔 쉽지 않고, 막막할 거라고 생각한다. 하나씩 적용하길 추천한다. 처음 한 달은 정제된 설탕과 과당이 들어간 음식, 과일은 먹지 않는다. 즉, 단맛이 느껴지는 음식, 디저트, 음료 등을 피하는 식단을 추천한다. 생각보다 우리는 정말 많은 당분속에 놓여있다. 밀가루도 금물. 성분표 속 당분 확인하는 습관도 같이 만들어 보자. 포도당, 과당, 자당, 엿당, 젖당, 우선당, 녹말 등은 모두 당분 종류이다. 당을 끊는 다고해서 허기를 참으라는 이야기는 아니다. 질 좋은 영양분으로 충분히 먹으면 된다. 대체 설탕인 에리스리톨,스테비아를 사용할 수 있지만, 많이 사용하면 뇌를 흥분시키므로 불가피한 경우 소량만 사용하기를 권한다. 배고픔을 참지 않고 다른 영양소를 충분히 보충해 준다면, 당분에 대한 갈망이 줄어 들고, 더 이상 단음식이 당기지 않는다. 당분 없이도 충분히 즐거운 기분, 게다가 몸도 한결 가벼워졌을 수도 있다. 이제 드디어, 키토제닉 세계로 입문을 준비한 것이다. 이제, 매끼 단백질, 몸에 좋은 지방으로 식사를 한다면, 식사량도 줄어든다.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 16:00:00 +0900</pubDate>
+        <link>http://localhost:4000//aboutketogenicdiet/</link>
+        <guid isPermaLink="true">http://localhost:4000//aboutketogenicdiet/</guid>
+        
+        <category>키토제닉</category>
+        
+        <category>저탄고지</category>
+        
+        <category>두뇌부스팅</category>
+        
+        
+        <category>ketogenic</category>
+        
+      </item>
+    
+      <item>
+        <title>불릿프루프(bulletproof), 방탄커피란?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post/01/bulletproofcoffee.jpg&quot; alt=&quot;방탄커피&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;아스프리가 말하는 불릿프루프(bulletproof, 완결무결 혹은 방탄) 커피란 오염되지 않은 블랙커피에 목초를 먹인 소의 우유로 만든 버터와 브레인 옥테인 오일을 블렌딩해 만든 커피이다. 뇌 기능을 활성화하고, 폴리페놀을 최대한으로 흡수하기 위해 직접 창시한 음식이다. 항산화 물질인 폴리페놀을 흡수하기 위해서는 지방의 도움이 필요한데, 아스프리는 티베트 여행 중에 현지인들이 야크 버터차를 마시는 모습을 보고 힌트를 얻었다고 한다. 오염되지 않은 블랙커피에 목초를 먹인 소의 우유로 만든 버터와 브레인 옥테인 오일을 블렌딩해 마시면 양질의 폴리페놀과 지방을 동시에 섭취할 수 있고 포만감도 주기 때문에 다이어트에도 도움이 된다고. 우유와 설탕을 첨가하는 경우, 폴리페놀 흡수를 돕지 못하고, 혈당을 낮추기 위해 인슐린이 분비되기 때문에 금지 음식이다. 라떼 안녕..&lt;/p&gt;
 
@@ -122,7 +185,30 @@
 
 &lt;h3 id=&quot;방탄커피-사-먹기&quot;&gt;방탄커피 사 먹기&lt;/h3&gt;
 
-&lt;p&gt;아니, 사 먹는 것은 가짜라고 해놓고 이게 무슨 소린가 싶을 텐데.. 모카포트보다 더 쉬운 방법이 있다. 포션 버터를 사거나, 큰 버터를 사서 10~20g 단위로 잘라놓는다. 참고로 개별 포장된 포션이 10g이다. 집에서 나갈 때 텀블러에 버터 1-2 조각과 코코넛 오일을 넣는다.  이때 텀블러는 그란데 사이즈(473ml) 이상을 추천한다. 흔들어서 잘 섞으려면 공간이 필요하다. 그리고 출근길에 있는 커피숍에 가서 아메리카노를 시키면서 뜨거운 물은 반만 채워달라고 한다. 안에 버터는 일부러 넣은 거니까 그 안에 샷을 넣어달라고 꼭 말해야 한다. 깨끗하게 씻어버리는 서비스를 받는 수가 있다(……..) 서비스직 분들 존경. 그리고 텀블러를 흔들며, 파워워킹으로 사무실에 도착한다. 물이 부족하면 적당량 뜨거운 물을 채워서 음용한다. 물론 이건 야매이긴 하다. 핸드블랜더를 이용해 쉐킷쉐킷해서 미셸화를 시켜줘야 방탄커피가 완성되는 거긴하다. 카페에서 다양한 종류의 버터를 구비하고 방탄커피를 판매하면 좋을 텐데. 매일 아침에 커피를 사먹는 경우가 아니거나 회사에 원두커피를 제공한다면, 그걸 이용해도 충분하다고 생각한다. 가성비 좋은 걸로는 베트남 커피인 G7 블랙이 있다.&lt;/p&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="다이어트" /><category term="케토시스" /><category term="목초버터" /><category term="MCT오일" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22bulletproof.jpeg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22bulletproof.jpeg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">헤드스트롱(headstrong), 2주 프로그램</title><link href="http://localhost:4000/headstrong/" rel="alternate" type="text/html" title="헤드스트롱(headstrong), 2주 프로그램" /><published>2019-12-23T20:00:00+09:00</published><updated>2019-12-23T20:00:00+09:00</updated><id>http://localhost:4000/headstrong</id><content type="html" xml:base="http://localhost:4000/headstrong/">&lt;h3 id=&quot;헤드스트롱을-만나다&quot;&gt;헤드스트롱을 만나다&lt;/h3&gt;
+&lt;p&gt;아니, 사 먹는 것은 가짜라고 해놓고 이게 무슨 소린가 싶을 텐데.. 모카포트보다 더 쉬운 방법이 있다. 포션 버터를 사거나, 큰 버터를 사서 10~20g 단위로 잘라놓는다. 참고로 개별 포장된 포션이 10g이다. 집에서 나갈 때 텀블러에 버터 1-2 조각과 코코넛 오일을 넣는다.  이때 텀블러는 그란데 사이즈(473ml) 이상을 추천한다. 흔들어서 잘 섞으려면 공간이 필요하다. 그리고 출근길에 있는 커피숍에 가서 아메리카노를 시키면서 뜨거운 물은 반만 채워달라고 한다. 안에 버터는 일부러 넣은 거니까 그 안에 샷을 넣어달라고 꼭 말해야 한다. 깨끗하게 씻어버리는 서비스를 받는 수가 있다(……..) 서비스직 분들 존경. 그리고 텀블러를 흔들며, 파워워킹으로 사무실에 도착한다. 물이 부족하면 적당량 뜨거운 물을 채워서 음용한다. 물론 이건 야매이긴 하다. 핸드블랜더를 이용해 쉐킷쉐킷해서 미셸화를 시켜줘야 방탄커피가 완성되는 거긴하다. 카페에서 다양한 종류의 버터를 구비하고 방탄커피를 판매하면 좋을 텐데. 매일 아침에 커피를 사먹는 경우가 아니거나 회사에 원두커피를 제공한다면, 그걸 이용해도 충분하다고 생각한다. 가성비 좋은 걸로는 베트남 커피인 G7 블랙이 있다.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Dec 2019 20:00:00 +0900</pubDate>
+        <link>http://localhost:4000//bulletproof/</link>
+        <guid isPermaLink="true">http://localhost:4000//bulletproof/</guid>
+        
+        <category>키토제닉</category>
+        
+        <category>저탄고지</category>
+        
+        <category>두뇌부스팅</category>
+        
+        <category>목초버터</category>
+        
+        <category>MCT오일</category>
+        
+        
+        <category>ketogenic</category>
+        
+      </item>
+    
+      <item>
+        <title>헤드스트롱(headstrong), 2주 프로그램</title>
+        <description>&lt;h3 id=&quot;헤드스트롱을-만나다&quot;&gt;헤드스트롱을 만나다&lt;/h3&gt;
 
 &lt;p&gt;이 책이 이 블로그의 정체성이자, 나를 키토제닉의 세계로 초대한 바로 그 도서 ‘헤드스트롱’이다, 정전상태, 즉 번아웃된 뇌 기능을 2주 만에 회복시키는 방법을 다룬 저자의 체험기로 독서 모임에서 선정되었었던 책 중의 하나다. 이 책을 보고 나는 새로운 진리를 깨달은 듯했는데, 다른 분들은 별 관심이 없어서, 내가 생체실험을 해보고 알려주기로 했다. 다이어트로 유명한 ‘방탄커피’가 이 사람이 만든 것일 줄은 이 책을 만나기 전에는 몰랐다. 나 역시 다이어트에 관심이 없는 건 아니지만, 비만에서 정상 체중 정도지 정상체중보다 마르기 위해서 다이어트를 시도할 생각은 해 본 적이 없다. 그리고 원래 일하면 살찌고, 일을 안 하면 살이 빠진다. 밝혀진 바는 없지만 내 생각에는 스트레스가 살을 잡아두는 것 같다. 그리고 나는 맛없는 음식을 먹어서 하는 다이어트에는 옛날에도 지금도 관심이 없다. 맛없는 걸 억지로 먹으면서 빼는 건, 먹는 것에 대한 고통을 줘서 앞으로도 적게 먹게 하려고 그러는 건가 싶기도 하다.&lt;/p&gt;
 
@@ -134,7 +220,32 @@
 
 &lt;h3 id=&quot;헤드스트롱에서-다루는-내용-그리고-도전&quot;&gt;헤드스트롱에서 다루는 내용, 그리고 도전&lt;/h3&gt;
 
-&lt;p&gt;그래서 이 책에는 아스프리가 말하는 불릿프루프(bulletproof, 완결무결 혹은 방탄) 커피에 대해서 나오고, 그 외에도 블루베리, 토마토 등 본인이 챙겨 먹는 음식과 수면, 휴식, 라이프 스타일, 보충제 등이 소개되어 있다. 아스프리 얘기로는 우리가 우울감이 생기는 거나 집중하지 못하는 것, 분노를 느끼는 것 모두 ‘뇌’ 때문이라고 한다. 뇌가 건강하면 당연히 건강한 몸을 갖게 되고, 그러면 일이나 학습을 효율적으로 처리할 수 있다고 했다. 내가 가장 필요한 일이다. 지금은 퇴사도 했고, 의욕이 조금 돌아오긴 했다. 이 책을 만난 2018년 4분기는 정말 못 봐줄 정도였다. 그런데도 그때 바로 시작하지 못했던 건 정전상태였던 내 뇌 때문이라고 자기합리화를 해본다. 실행력은 빠른 편인 내가 모든 일에 1도 의욕이 없었던 시기니까. 그래도 월급을 받는 회사에서는 제 몫을 해야 하니까 있는 의욕과 없는 의욕까지 모두 끌어다가 회사에 줘버리고 나니.. 내 삶이 존재하지 않았다. 지금 생각해보면 내 인생에서 분노쟁이가 출현한 시기라고 할 수 있다. 그리고 그 시기엔 정말 기록이 전혀 없다. 난 뭐 하고 살았을까.&lt;/p&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="다이어트" /><category term="두뇌회복" /><category term="인지능력개선" /><category term="목초버터" /><summary type="html">헤드스트롱을 만나다</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22headstrong.jpeg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22headstrong.jpeg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">건강기능식품 4 - 비타민 E(Vitamin E)</title><link href="http://localhost:4000/vitamin-e/" rel="alternate" type="text/html" title="건강기능식품 4 - 비타민 E(Vitamin E)" /><published>2019-12-19T20:00:00+09:00</published><updated>2019-12-19T20:00:00+09:00</updated><id>http://localhost:4000/vitamin-e</id><content type="html" xml:base="http://localhost:4000/vitamin-e/">&lt;p&gt;&lt;img src=&quot;/img/post/01/ros.jpg&quot; alt=&quot;활성산소종&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;그래서 이 책에는 아스프리가 말하는 불릿프루프(bulletproof, 완결무결 혹은 방탄) 커피에 대해서 나오고, 그 외에도 블루베리, 토마토 등 본인이 챙겨 먹는 음식과 수면, 휴식, 라이프 스타일, 보충제 등이 소개되어 있다. 아스프리 얘기로는 우리가 우울감이 생기는 거나 집중하지 못하는 것, 분노를 느끼는 것 모두 ‘뇌’ 때문이라고 한다. 뇌가 건강하면 당연히 건강한 몸을 갖게 되고, 그러면 일이나 학습을 효율적으로 처리할 수 있다고 했다. 내가 가장 필요한 일이다. 지금은 퇴사도 했고, 의욕이 조금 돌아오긴 했다. 이 책을 만난 2018년 4분기는 정말 못 봐줄 정도였다. 그런데도 그때 바로 시작하지 못했던 건 정전상태였던 내 뇌 때문이라고 자기합리화를 해본다. 실행력은 빠른 편인 내가 모든 일에 1도 의욕이 없었던 시기니까. 그래도 월급을 받는 회사에서는 제 몫을 해야 하니까 있는 의욕과 없는 의욕까지 모두 끌어다가 회사에 줘버리고 나니.. 내 삶이 존재하지 않았다. 지금 생각해보면 내 인생에서 분노쟁이가 출현한 시기라고 할 수 있다. 그리고 그 시기엔 정말 기록이 전혀 없다. 난 뭐 하고 살았을까.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Dec 2019 20:00:00 +0900</pubDate>
+        <link>http://localhost:4000//headstrong/</link>
+        <guid isPermaLink="true">http://localhost:4000//headstrong/</guid>
+        
+        <category>키토제닉</category>
+        
+        <category>저탄고지</category>
+        
+        <category>LCHF</category>
+        
+        <category>두뇌부스팅</category>
+        
+        <category>목초버터</category>
+        
+        
+        <category>ketogenic</category>
+        
+        <category>bookreview</category>
+        
+      </item>
+    
+      <item>
+        <title>건기식 4 - 비타민 E(Vitamin E)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post/01/ros.jpg&quot; alt=&quot;활성산소종&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;활성산소종-reactive-oxygen-species-ros&quot;&gt;활성산소종 (reactive oxygen species, ROS)&lt;/h3&gt;
 
@@ -167,7 +278,32 @@
 
 &lt;p&gt;&lt;a href=&quot;https://kr.iherb.com/pr/Now-Foods-Natural-E-400-250-Softgels/517?rcode=TJR663&quot;&gt;비타민E 구매하기&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;첫-페이지-맥주효모-돌아가기&quot;&gt;&lt;a href=&quot;https://lucyketogenic.com/brewersyeast/&quot;&gt;첫 페이지, ‘맥주효모’ 돌아가기&lt;/a&gt;&lt;/h3&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="항산화제" /><category term="비타민" /><category term="노화방지" /><category term="건강기능성식품" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22vitamin-01.jpeg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22vitamin-01.jpeg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">건강기능식품 3 - 알파리포산(Alpha Lipoic Acid)</title><link href="http://localhost:4000/alphalipoicacid/" rel="alternate" type="text/html" title="건강기능식품 3 - 알파리포산(Alpha Lipoic Acid)" /><published>2019-12-18T20:00:00+09:00</published><updated>2019-12-18T20:00:00+09:00</updated><id>http://localhost:4000/alphalipoicacid</id><content type="html" xml:base="http://localhost:4000/alphalipoicacid/">&lt;p&gt;&lt;img src=&quot;/img/post/01/alphalipoicacid.jpg&quot; alt=&quot;알파리포산&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;첫-페이지-맥주효모-돌아가기&quot;&gt;&lt;a href=&quot;https://lucyketogenic.com/brewersyeast/&quot;&gt;첫 페이지, ‘맥주효모’ 돌아가기&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Thu, 19 Dec 2019 20:00:00 +0900</pubDate>
+        <link>http://localhost:4000//vitamin-e/</link>
+        <guid isPermaLink="true">http://localhost:4000//vitamin-e/</guid>
+        
+        <category>건강</category>
+        
+        <category>항산화제</category>
+        
+        <category>노화방지</category>
+        
+        <category>비타민</category>
+        
+        <category>두뇌부스팅</category>
+        
+        
+        <category>ketogenic</category>
+        
+        <category>건강기능성식품</category>
+        
+      </item>
+    
+      <item>
+        <title>건기식 3 - 알파리포산(Alpha Lipoic Acid)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post/01/alphalipoicacid.jpg&quot; alt=&quot;알파리포산&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;세번째-알파-리포산source-naturals---alpha-lipoic-acid-200mg&quot;&gt;세번째, 알파-리포산(Source Naturals - Alpha Lipoic Acid 200mg)&lt;/h3&gt;
 
@@ -185,7 +321,32 @@
 
 &lt;p&gt;&lt;a href=&quot;https://kr.iherb.com/pr/Source-Naturals-Alpha-Lipoic-Acid-200-mg-120-Tablets/1469?rcode=TJR663&quot;&gt;알파-리포산 구매하기&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;다음-비타민e-계속보기&quot;&gt;&lt;a href=&quot;https://lucyketogenic.com/vitamin-e/&quot;&gt;다음, ‘비타민E’ 계속보기&lt;/a&gt;&lt;/h3&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="항산화제" /><category term="비타민" /><category term="노화방지" /><category term="건강기능성식품" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22vitamin-01.jpeg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22vitamin-01.jpeg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">건강기능식품 2 - 비타민 C(vitamin C)</title><link href="http://localhost:4000/vitamin-c/" rel="alternate" type="text/html" title="건강기능식품 2 - 비타민 C(vitamin C)" /><published>2019-12-17T15:00:00+09:00</published><updated>2019-12-17T15:00:00+09:00</updated><id>http://localhost:4000/vitamin-c</id><content type="html" xml:base="http://localhost:4000/vitamin-c/">&lt;p&gt;&lt;img src=&quot;/img/post/01/vitamin-c.jpg&quot; alt=&quot;비타민C&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;다음-비타민e-계속보기&quot;&gt;&lt;a href=&quot;https://lucyketogenic.com/vitamin-e/&quot;&gt;다음, ‘비타민E’ 계속보기&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 18 Dec 2019 20:00:00 +0900</pubDate>
+        <link>http://localhost:4000//alphalipoicacid/</link>
+        <guid isPermaLink="true">http://localhost:4000//alphalipoicacid/</guid>
+        
+        <category>건강</category>
+        
+        <category>항산화제</category>
+        
+        <category>노화방지</category>
+        
+        <category>비타민</category>
+        
+        <category>두뇌부스팅</category>
+        
+        
+        <category>ketogenic</category>
+        
+        <category>건강기능성식품</category>
+        
+      </item>
+    
+      <item>
+        <title>건기식 2 - 비타민 C(vitamin C)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post/01/vitamin-c.jpg&quot; alt=&quot;비타민C&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;두번째-비타민-ccalifornia-gold-nutrition---vitamin-c-1000mg&quot;&gt;두번째, 비타민 C(California gold nutrition - vitamin C 1000mg)&lt;/h3&gt;
 
@@ -209,7 +370,32 @@
 
 &lt;p&gt;&lt;a href=&quot;https://kr.iherb.com/pr/California-Gold-Nutrition-Gold-C-Vitamin-C-1-000-mg-240-Veggie-Capsules/61865?rcode=TJR663&quot;&gt;비타민C 구매하기&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;다음-알파-리포산-계속보기&quot;&gt;&lt;a href=&quot;https://lucyketogenic.com/alphalipoicacid/&quot;&gt;다음, ‘알파-리포산’ 계속보기&lt;/a&gt;&lt;/h3&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="항산화제" /><category term="비타민" /><category term="노화방지" /><category term="건강기능성식품" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22vitamin-01.jpeg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22vitamin-01.jpeg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">건강기능식품 1 - 맥주효모(Brewer’s Yeast)</title><link href="http://localhost:4000/brewersyeast/" rel="alternate" type="text/html" title="건강기능식품 1 - 맥주효모(Brewer's Yeast)" /><published>2019-12-16T15:00:00+09:00</published><updated>2019-12-16T15:00:00+09:00</updated><id>http://localhost:4000/brewersyeast</id><content type="html" xml:base="http://localhost:4000/brewersyeast/">&lt;p&gt;20대 중반부터 건강기능성식품을 아이허브를 꾸준히 이용했다. 그 당시엔 직구였는데, 지금은 많이 편해졌다. 처음 챙겨먹게 되면 한 두번이나 좀 다른가 싶지 먹다보면 좋은지 안 좋은지를 잘 몰랐다. 그러나 한동안 안 먹어보면 나빠지는 걸 느낄수 있어서 몇 달 지나지 않아 곧 다시 챙겨먹게 되는 그런 개미지옥이 바로 건강기능성식품이다. 안먹은 사람은 있어도 한 번만 먹는 사람은 없는 건기식의 세계로 초대한다. 내 영양제를 사면서 직장 동료들 것도 애정을 담아 한 개씩 구매했다. 총 4종으로 매일매일 꾸준히 잘 드셨으면 좋겠다.&lt;/p&gt;
+&lt;h3 id=&quot;다음-알파-리포산-계속보기&quot;&gt;&lt;a href=&quot;https://lucyketogenic.com/alphalipoicacid/&quot;&gt;다음, ‘알파-리포산’ 계속보기&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Tue, 17 Dec 2019 15:00:00 +0900</pubDate>
+        <link>http://localhost:4000//vitamin-c/</link>
+        <guid isPermaLink="true">http://localhost:4000//vitamin-c/</guid>
+        
+        <category>건강</category>
+        
+        <category>항산화제</category>
+        
+        <category>노화방지</category>
+        
+        <category>비타민</category>
+        
+        <category>두뇌부스팅</category>
+        
+        
+        <category>ketogenic</category>
+        
+        <category>건강기능성식품</category>
+        
+      </item>
+    
+      <item>
+        <title>건기식 1 - 맥주효모(Brewer's Yeast)</title>
+        <description>&lt;p&gt;20대 중반부터 건강기능성식품을 아이허브를 꾸준히 이용했다. 그 당시엔 직구였는데, 지금은 많이 편해졌다. 처음 챙겨먹게 되면 한 두번이나 좀 다른가 싶지 먹다보면 좋은지 안 좋은지를 잘 몰랐다. 그러나 한동안 안 먹어보면 나빠지는 걸 느낄수 있어서 몇 달 지나지 않아 곧 다시 챙겨먹게 되는 그런 개미지옥이 바로 건강기능성식품이다. 안먹은 사람은 있어도 한 번만 먹는 사람은 없는 건기식의 세계로 초대한다. 내 영양제를 사면서 직장 동료들 것도 애정을 담아 한 개씩 구매했다. 총 4종으로 매일매일 꾸준히 잘 드셨으면 좋겠다.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/post/01/brewersyeast.jpg&quot; alt=&quot;맥주효모&quot; /&gt;&lt;/p&gt;
 
@@ -223,4 +409,267 @@
 
 &lt;p&gt;&lt;a href=&quot;https://kr.iherb.com/pr/Now-Foods-Brewer-s-Yeast-200-Tablets/48771?rcode=TJR663&quot;&gt;맥주효모 구매하기&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;다음-비타민-c-계속보기&quot;&gt;&lt;a href=&quot;https://lucyketogenic.com/vitamin-c/&quot;&gt;다음, ‘비타민 C’ 계속보기&lt;/a&gt;&lt;/h3&gt;</content><author><name>Lucy</name></author><category term="건강" /><category term="항산화제" /><category term="비타민" /><category term="노화방지" /><category term="건강기능성식품" /><summary type="html">20대 중반부터 건강기능성식품을 아이허브를 꾸준히 이용했다. 그 당시엔 직구였는데, 지금은 많이 편해졌다. 처음 챙겨먹게 되면 한 두번이나 좀 다른가 싶지 먹다보면 좋은지 안 좋은지를 잘 몰랐다. 그러나 한동안 안 먹어보면 나빠지는 걸 느낄수 있어서 몇 달 지나지 않아 곧 다시 챙겨먹게 되는 그런 개미지옥이 바로 건강기능성식품이다. 안먹은 사람은 있어도 한 번만 먹는 사람은 없는 건기식의 세계로 초대한다. 내 영양제를 사면서 직장 동료들 것도 애정을 담아 한 개씩 구매했다. 총 4종으로 매일매일 꾸준히 잘 드셨으면 좋겠다.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22feature%22=%3E%22vitamin-01.jpeg%22%7D" /><media:content medium="image" url="http://localhost:4000/%7B%22feature%22=%3E%22vitamin-01.jpeg%22%7D" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;h3 id=&quot;다음-비타민-c-계속보기&quot;&gt;&lt;a href=&quot;https://lucyketogenic.com/vitamin-c/&quot;&gt;다음, ‘비타민 C’ 계속보기&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Mon, 16 Dec 2019 15:00:00 +0900</pubDate>
+        <link>http://localhost:4000//brewersyeast/</link>
+        <guid isPermaLink="true">http://localhost:4000//brewersyeast/</guid>
+        
+        <category>건강</category>
+        
+        <category>항산화제</category>
+        
+        <category>노화방지</category>
+        
+        <category>비타민</category>
+        
+        <category>두뇌부스팅</category>
+        
+        
+        <category>ketogenic</category>
+        
+        <category>건강기능성식품</category>
+        
+      </item>
+    
+      <item>
+        <title>저탄고지의 장점</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post/01/headache.jpg&quot; alt=&quot;두통&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;저탄수화물-고지방식-lchf-의-장점&quot;&gt;저탄수화물 고지방식 (LCHF) 의 장점&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;근육은 유지하며, 체지방만 감소&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;뇌 리부트, 명료한 정신&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;충만한 에너지&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;배고픔이 없음&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;자기면역질환 호전 및 염증 억제&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;숙면에 도움&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;만성피로의 호전&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;근력, 근지구력의 상승&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;장건강&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;건강한 피부와 손톱, 탈모 호전&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;호르몬 불균형 호전&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;노화 억제&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;지방간 호전&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;고지혈증치료, 순환기 질환 호전&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;당뇨병 치료&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;암 억제&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;사실, 지방은 너무나 훌륭한 비축의 수단이어서 우리는 여러 통로를 통해 단백질, 탄수화물으로 부터도 지방을 만들 수 있게 진화되었다. 초식을 하는 동물은 지방의 축적될 여유가 없다. 곡류를 섭취하여야 비육해질 수 있다. (…아?) 멧돼지의 지방함량은 체중의 4% 정도고 꿩은 2.5%가 지방이다. 사육돼지의 지방함량은 25~40%이며, 사육 닭은 25%의 지방을 가지고 있다고 한다. 지방은 체중의 3% 이하여도 충분하다는 이야기다. 음.. 내 지방이 얼마일지가 궁금해지지만 확인하지는 않기로 한다. 동물만 보더라도 잉여 탄수화물이 지방으로 비축되고 있다. 그런고로.. 지방은 죄가 없다,&lt;/p&gt;
+
+&lt;h3 id=&quot;지방의-누명&quot;&gt;지방의 누명&lt;/h3&gt;
+
+&lt;p&gt;1960년대 초반에는 저지방 식품이 ‘건강한 식단’이라고 광고되었다. 설탕 협회가 하버드 과학자들에게 설탕의 위험을 무시하고 지방을 깍아내리라고 5만달러의 로비를 한 것이 큰 이유를 차지했다. 지금도 여전히 마케팅이 고도화 되고 있는데, 옛날이야 오죽했을까. 효과는 바로 나타났다. 식품 업체들은 저지방 식품에 설탕을 더해 제품을 제조햇고, 결과적으로 건강 위기와 비만이 퍼졌다. 이제는 저지방 열풍을 부추긴 가짜 과학을 거부하고 건강한 완전 지방이 필수적이라는 사실을 받아들이는 사람이 늘어나고 있다. 올바른 지방은 뇌에 가장 중요한 다량영양소다.&lt;/p&gt;
+
+&lt;p&gt;건강한 지방이 들어 있는 식단은 체내 염증을 줄이고 뇌의 에너지 생산 속도를 높여준다. 건강한 지방을 먹을수록 뇌가 지방을 에너지로 바꾸는 효율성도 커진다. 탄수와물이나 단백질과 같은 다른 다량영양소와 비교해 지방은 인슐린과 코르티솔 수치에 끼치는 영향도 가장 적다. 결정적으로 우리의 몸은 많은 부분이 지방으로 이루어져있다. 건강한 여성의 몸은 약 25~29%, 남자의 몸은 15~20%다. 모든 신체 부위에 지방이 있지만 뇌에 지방이 가장 많다. 뇌세포와 절연체 역할을 하는 미엘린은 모두 지방으로 만들어졌고, 제대로 기능하기 위해서는 지방이 꼭 필요하다. 지방을 많이 섭취하게 되면 자연스럽게 콜레스테롤에 대한 걱정을 하는데 HDL 콜레스테롤은 세포의 바깥쪽 막에 필수로 필요하기 때문에 우리 몸 스스로 콜레스테롤을 만든다. 물론 LDL 콜레스테롤이 나쁜건 사실이지만..&lt;/p&gt;
+
+&lt;p&gt;HDL 콜레스테롤이 낮으면 인지 기능 저하와 신경퇴행성 질병의 원인이 될 수 있다. 참고로 지방의 분자길이는 짧을 수록 항염증성 강해 좋은 식품이다. 버터에 들어 있는 부티르산와 코코넛 오일에 들어있는 4가지 중간사실지방 중 두 가지는 매우 중요한다. 부티르산은 항염증성일 뿐만 아니라 혈액뇌장벽도 지켜준다. 병원에서 염증이 발생하면 안좋은 예후를 보이는 환자들에게 버터를 식사때 제공한다면 어떨지 궁금해진다.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Dec 2019 20:00:00 +0900</pubDate>
+        <link>http://localhost:4000//advantages/</link>
+        <guid isPermaLink="true">http://localhost:4000//advantages/</guid>
+        
+        <category>키토제닉</category>
+        
+        <category>저탄고지</category>
+        
+        <category>LCHF</category>
+        
+        <category>두뇌부스팅</category>
+        
+        
+        <category>ketogenic</category>
+        
+      </item>
+    
+      <item>
+        <title>저탄수화물 고지방 (Low Carb.High Fat) 식이요법</title>
+        <description>&lt;h3 id=&quot;저탄수화물-고지방-low-carb-high-fat-lchf-식이요법&quot;&gt;저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법&lt;/h3&gt;
+
+&lt;p&gt;대부분의 대사질환의 원인은 인슐린 저항성과 관계가 있다. 인슐린 호르몬에 이상이 생기는 것이 당뇨병이니까. 이러한 병의 원인은 과도한 정제탄수화물 섭취로 일어난다고 한다. 당뇨병에 걸리면 완치가 없고, 평생 조심하고 살아야 하는데 저는 가족력이 있기때문에 더더욱 미리 조심해야한다. 우리 어머니역시도 조심하고 있다. ‘저탄고지 식사법은 대사질환을 효율적으로 예방, 치료할수 있는 식이요법으로 탄수화물 섭취를 최대한 줄이고 대신 지방을 내몸의 에너지의 주원료로 사용하면서 탄수화물 섭취로 인해 발생하는 비만, 당뇨병, 고지혈증 등의 대사 이상을 예방, 호전시킬 수 있다.’고 한다. 물론 질병이 아니니까, 병을 고치는 것 만큼은 아니겠지만서도… 사실 도전을 결심하게 된 이유는 ‘정전 상태에 빠진 뇌를 리부트할 수 있다’ 했기 때문이었으니까. 요즘 기억력 감퇴, 만성피로에.. 이해도가 너무 떨어지고, 텍스트가 잘 읽히지 않았는데.. 그걸 노화로 의심햇던 내 몸에게 미안함을 전하며, 번아웃된 뇌을 회복시키는 두뇌 강화 프로그램에 도전하기로 했다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post/01/keto-vegetable-oil.jpg&quot; alt=&quot;오일이미지&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;지방을-먹어서-살이-찌면-어떡하지&quot;&gt;지방을 먹어서 살이 찌면 어떡하지?&lt;/h3&gt;
+
+&lt;p&gt;사실 살을 찌우는 것은 탄수화물이며, 비만의 원인은 칼로리보다는 호르몬의 문제라고 전문가들을 말하고 있다. 이 중에서도 인슐린과 렙틴이 크게 관여하는데 저탄수화물식단은 이 두 호르몬이 저항성을 호전시켜주기 때문에 지방의 섭취를 추천하고 있다는데…. 최근 ‘지방의 누명’으로 인해 키토제닉 식단이 재조명 받고 있다. 타이밍 맞게 ‘기적의 식단’ 이라는 책도 나왔기도 하고. 의사쌤 말씀으로는 칼로리제한식이나 저지방식이 체중감량에서 한번도 저탄수화물식단을 이겨본 적이 없다고 한다. 칼로리를 제한하는 저지방식은 대사는 닫히고, 갑상선 기능이 저하되며, 결국 만족한 수준에 도달하더라도 허기와 식욕을 참지 못해 요요현상이 나타난다고… 물론 나는 다이어트가 1차 목적은 아니지만, 비만도가 낮아지면 좋은거니까. 근데, 칼로리를 제한하면서 격한 운동까지 하면 우리몸의 에너지 수준은 더 떨어지고, 세포는 망가진다. 그러나 저단고지 식단은 배부를 만큼 먹고, 허기짐이 없고, 식욕이 억제되며, 체중감소에 따른 근육의 손실을 최소화하면서 에너지 수준이 떨어지지 않고 오히려 넘칠수 있다고 한다. 케톤적응상태에 이르면 우리몸은 지방을 태우는 몸이 되고, 일반적으로 유산소운동을 하면 20-30분후부터 지방을 태우기 시작하지만, 케톤적응상태에서는 운동 시작때부터 지방을 태우기 시작한다고 하는데… 즉, 비교적 적은 강도의 운동으로도 훨씬 더 효과적으로 지방을 태울수 있다. 오랫동안 수영을 다니다 말다 했었는데, 수영은 대표적인 유산소 운동이라 재등록을 하지 말아야할까 고민 중이다. 우선 필라테스는 열심히 하고 있다.&lt;/p&gt;
+
+&lt;h3 id=&quot;지방의-역할&quot;&gt;지방의 역할&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;투과성을 조절할 수 있는 세포막&lt;/li&gt;
+  &lt;li&gt;칼슘과 같은 미네랄 흡수&lt;/li&gt;
+  &lt;li&gt;지용성 비타민인 A, D, E, K의 캐리어 역할&lt;/li&gt;
+  &lt;li&gt;카로텐을 비타민 A로 전환&lt;/li&gt;
+  &lt;li&gt;콜레스테롤 수치를 낮추는데 도움&lt;/li&gt;
+  &lt;li&gt;항균, 항진균, 항바이러스제 역할 (caprylic acid)&lt;/li&gt;
+  &lt;li&gt;케톤으로 전환되어 뇌에까지 적정 연료를 공급&lt;/li&gt;
+  &lt;li&gt;포만감유지&lt;/li&gt;
+  &lt;li&gt;암 예방 도움(butyric acid)&lt;/li&gt;
+  &lt;li&gt;탄수화물에 비해 free radical을 훨씬 적게 만듬&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;지방의-장점&quot;&gt;지방의 장점&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;가볍다 :  탄수화물, 단백질은 수분을 함유하여 무겁다.&lt;/li&gt;
+  &lt;li&gt;에너지가 높다 : 탄수화물이나 단백질 4kcal/g 대비 9kcal/g로 2배 이상이다.&lt;/li&gt;
+  &lt;li&gt;독성이 낮다 : 포도당,아미노산은 단당류로 있으면 혈액에 무리가 된다.&lt;/li&gt;
+  &lt;li&gt;저장이 편하다 : 쉽게 지방끼리 뭉친다.&lt;/li&gt;
+  &lt;li&gt;천천히 쓰인다 : 용해도가 낮아 일단 지방으로 뭉치면 녹이기 쉽지 않다.&lt;/li&gt;
+  &lt;li&gt;탄력이 있고 단열성이 높다 : 체온유지, 상처보호에 유리하다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/BX56_wteTUA&quot; width=&quot;700&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 15 Dec 2019 15:10:00 +0900</pubDate>
+        <link>http://localhost:4000//about-ketogenic/</link>
+        <guid isPermaLink="true">http://localhost:4000//about-ketogenic/</guid>
+        
+        <category>키토제닉</category>
+        
+        <category>저탄고지</category>
+        
+        <category>LCHF</category>
+        
+        <category>두뇌부스팅</category>
+        
+        
+        <category>ketogenic</category>
+        
+      </item>
+    
+      <item>
+        <title>키토제닉에 도전하며</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/post/01/cell.jpg&quot; alt=&quot;세포이미지&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;노화가-진행되는-30대가-되서-그런-거라고&quot;&gt;노화가 진행되는 30대가 되서 그런 거라고?&lt;/h3&gt;
+
+&lt;p&gt;나는 똑같이 살았던 것 같은데, 살이 쪘다. 15kg을 찍고, 지금은 10kg 정도. 그래서인지 모르겠지만, 건강이 좋지 않다. 피곤하고, 몸이 아프고, 면역력도 떨어졌고. 또, 기억력이 예전 같지 않다. 카드번호나 계좌번호가 순간순간 기억이 안 날때가 있다. 살은 쪘는데 피부는 오히려 안좋아지고.. 병원은 왜 자꾸 찾게 되는지. 지인과 이야기를 해봐도 “20대와는 다르지, 30대라서 그래” “나이 먹어서 그렇지 뭐 우리 체력도 떨어졌잖아” 그리고 30대는 정말 나잇살이 있어서 운동해야 빠진다고… ‘음, 아 그런가..? 그렇구나’ 하면서 무심코 하루하루를 흘려보냈고, 이제 빼박 30대이다. 내 건강과 인지능력은 현저히 떨어지고 있는데 이게 정말 나이 때문만일까? 현대는 100세 시대인데, 그럼 앞으로 70년 동안 끊임없이 안 좋아지는 거라고? 내 세포들은 그럼 계속 늙어가기만 하는걸까.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post/01/keto-brain.jpg&quot; alt=&quot;뇌이미지&quot; /&gt; &lt;img src=&quot;/img/post/01/keto-vegetable.jpg&quot; alt=&quot;야채이미지&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;인간의-뇌와-식단과의-상관관계&quot;&gt;인간의 뇌와 식단과의 상관관계&lt;/h3&gt;
+
+&lt;p&gt;내 기억이 맞는다면 2017-8년도에 퇴사 열풍과 함께 뇌과학과 우울함에 대해 대한민국이 들썩였다. 다양한 콘텐츠와 서적이 생산되었고, 사회적 이슈에 편승한 책이 많아서 내용은 별로인 책이 더 많았다는 생각이 들지만, 그런 수 많은 콘텐츠 사이에서 보석같은 책을 발견했다. 바로 ’정전 상태에 빠진 두뇌를 리부트하자!’ 라는 소제목을 가진 데이비드 아스프리의 “헤드스트롱”을 만났다. 이 책은 천문학적인 비용을 들여서 본인의 몸을 해킹하는 실리콘밸리 사업가 아스프리가 나온다. 컴퓨터를 이용해 프로그램을 해킹할 수 있으면, 인간의 몸도 가능하지 않을까 라고 가설을 세운 아스프리는 정말 최첨단 장비를 이용해 자신의 몸을 바이오해킹한다. 왜 시도하게 되었는지, 어떤 부분을 자신의 삶과 적용했는지는 책을 보면 알 수 있다. 그래서 실험적인 정보가 주를 이루고 있고, 고등학교 생물2를 배웠다면 흥미롭게 이해할 수 있을 정도의 수준이다. 7차 과정 이후 고등학교를 졸업했다면 과학 과목을 전혀 배우지 않았을 경우 이 책이 그리 재밌지는 않을 수 있지만… 음 그래도 읽어보기를 추천한다. 방탄커피, 키토제닉(Ketogenic)에 대한 이야기와 LCHF(Low Carbohydrate High Fat) 지속가능한 식단을 이야기한다. 그는 고도비만으로 건강을 위해 다양한 다이어트를 시도했던 전력이 있었고, 일반적인 다이어트로는 성공하지 못했지만, 키토제닉 식단을 하면서 몸과 정신이 건강해졌고, 체중도 정상 체중으로 돌아왔으며, 10년 전보다 훨씬 더 젊은 뇌를 가지고 살 수 있게 되었다. 한국에서는 ‘최강의 식사’로 더 유명하고, 다이어트 얘기를 할 때 빠지지 않으며.. 방탄커피의 창시자이다. 그리고 나는 이 책 내용을 정말 시도해 볼 생각이고.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/post/01/keto-health.jpg&quot; alt=&quot;운동하기&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;키토제닉-식단-아스프리를-따라서&quot;&gt;키토제닉 식단, 아스프리를 따라서&lt;/h3&gt;
+
+&lt;p&gt;내가 뒤늦게 아스프리를 알게 되면서, 몇 년 전 한국에서 인기 있었던, 원푸드 다이어트의 바통을 이은 황제 다이어트가 생각났다. TV프로에서 방영된 내용은 고깃집가서 삼겹살에 버터 넣어 굽고, 국밥 먹으면서 버터 넣고.. 그 당시에는 저탄고지에 대한 지식이 전혀 없어서 저건 무슨 해괴한 짓이지 했던 기억이 난다. (참고로 저 식단은 고탄고지이다.) 원푸드 다이어트는 영양학적 관점에서 좋을 수 없고, 평생 지속 가능한 것도 아니고, 결과적으로 나는 다이어트 카테고리에는 관심이 없었다. 내 의지력은 어렸을때나 커서나 강하지 않았고, 나는 굳이 다이어트를 해야겠다고는 못 느꼈기 때문에.. 마른체형을 가져본 적이 없어서 그럴지도 모르겠다. 그때 더 자세히 알아봤다면, 한국식 황제 다이어트가 아니라 하이브리드로 작동하는 뇌에 대해서 이해할 수 있었을 테고 키토제닉을 20대에 시작할 수도 있었을 테니까 아쉬운 것은 사실이다. 지금은 오히려 너무 많은 정보로 사실과 뇌피셜 사이에서 길을 잃기가 쉽다. 또 한 가지, 아스프리는 외국인이고, 성인 남자이다. 여자와는 호르몬 기작이 다를 뿐 아니라, 애초에 주식이 쌀인 한국이랑은 환경적인 요인에서 차이가 있을 수밖에, 30대 여자가 한국에서 키토식(LCHF)으로 먹고, 쉬고, 운동하고, 힐링하고, 지속가능한 건강한 삶을 살아가는 이야기.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Dec 2019 07:30:00 +0900</pubDate>
+        <link>http://localhost:4000//start-ketogenic/</link>
+        <guid isPermaLink="true">http://localhost:4000//start-ketogenic/</guid>
+        
+        <category>키토제닉</category>
+        
+        <category>저탄고지</category>
+        
+        <category>LCHF</category>
+        
+        <category>두뇌부스팅</category>
+        
+        
+        <category>ketogenic</category>
+        
+      </item>
+    
+      <item>
+        <title>연암 박지원의 조선 현실 풍자 소설 허생전 - 2</title>
+        <description>&lt;p&gt;주인공인 허생은 가난한 형편에도 10년 글 읽기를 기약하며 매일 글을 읽고 있었는데 7년째 되는 어느 날 아내가 허생에게 장인바치 일도 장사도 못 하면 차라리 도둑질이라도 해서 돈을 벌어 오라고 구박한다.&lt;/p&gt;
+
+&lt;p&gt;그러자 허생은 글 읽기를 멈추고 집 문 밖으로 뛰쳐나가서는 한양의 갑부인 변씨를 찾아가 당당하게 1만 냥이라는 거금을 빌려 간다. 그리고는 바로 안성시장으로 가서 그 돈으로 과일을 다 싹쓸이해서 10배의 폭리를 취하고 제주도로 가서 말총을 다 싹쓸이해서 망건 값을 10배로 올려 처음 꿨던 돈의 100배로 불린다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/01/01.jpg&quot; alt=&quot;돌아오는 허생&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;그런데 얼마 뒤, 때마침 변산에서 도적 떼들이 들끓자 그들의 사연을 듣고는 그들을 회유하여 살기 좋다는 무인도로 데려가서 새 삶을 살게 하고 일본의 기근을 도와주면서 은 백만냥을 벌게 되었다. 그러나 땅이 좁은 것에 한탄하면서 돌아가기로 마음먹으며 섬에 드나드는 배를 모조리 불태우고 바다에 50만냥을 그냥 버린다. 그리고 섬에 있는 사람중에 글을 아는 자들을 골라내어서 배에 태워 다시 조선으로 돌려보냈다. 그렇게 허생은 다시 조선으로 돌아와 가난한 사람들에게 많은 돈을 나누어주고 10만 냥이 남게 되자 변씨에게 몽땅 다 갚는다.&lt;/p&gt;
+
+&lt;p&gt;이에 변씨는 깜짝 놀라며 돈을 다시 돌려주려고 했지만 허생은 거절했고 이를 계기로 허생과 인연을 맺게 된다. 얼마 뒤 변씨가 어영청 대장인 이완 대장에게 허생의 얘기를 하자 이완 대장이 놀라며 허생을 찾아간다.이완이 허생에게 청나라에 대한 대책을 묻자 세 가지 해결책을 던졌는데 이완이 모두 어렵다는 답만 했다. 그러자 허생이 이완을 꾸짖으면서 칼로 찌르려고 위협했고 놀란 이완 대장은 뒷문으로 도망갔다. 그 다음날 이완이 다시 찾아가 봤지만 허생은 사라졌다.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Dec 2019 15:30:00 +0900</pubDate>
+        <link>http://localhost:4000//heosaeng-jeon-2/</link>
+        <guid isPermaLink="true">http://localhost:4000//heosaeng-jeon-2/</guid>
+        
+        <category>허생</category>
+        
+        <category>조선시대</category>
+        
+        <category>허생전</category>
+        
+        <category>고전소설</category>
+        
+        
+        <category>category-2</category>
+        
+      </item>
+    
+      <item>
+        <title>연암 박지원의 조선 현실 풍자 소설 허생전</title>
+        <description>&lt;p&gt;주인공인 허생은 가난한 형편에도 10년 글 읽기를 기약하며 매일 글을 읽고 있었는데 7년째 되는 어느 날 아내가 허생에게 장인바치 일도 장사도 못 하면 차라리 도둑질이라도 해서 돈을 벌어 오라고 구박한다.&lt;/p&gt;
+
+&lt;p&gt;그러자 허생은 글 읽기를 멈추고 집 문 밖으로 뛰쳐나가서는 한양의 갑부인 변씨를 찾아가 당당하게 1만 냥이라는 거금을 빌려 간다. 그리고는 바로 안성시장으로 가서 그 돈으로 과일을 다 싹쓸이해서 10배의 폭리를 취하고 제주도로 가서 말총을 다 싹쓸이해서 망건 값을 10배로 올려 처음 꿨던 돈의 100배로 불린다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/01/01.jpg&quot; alt=&quot;돌아오는 허생&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;그런데 얼마 뒤, 때마침 변산에서 도적 떼들이 들끓자 그들의 사연을 듣고는 그들을 회유하여 살기 좋다는 무인도로 데려가서 새 삶을 살게 하고 일본의 기근을 도와주면서 은 백만냥을 벌게 되었다. 그러나 땅이 좁은 것에 한탄하면서 돌아가기로 마음먹으며 섬에 드나드는 배를 모조리 불태우고 바다에 50만냥을 그냥 버린다. 그리고 섬에 있는 사람중에 글을 아는 자들을 골라내어서 배에 태워 다시 조선으로 돌려보냈다. 그렇게 허생은 다시 조선으로 돌아와 가난한 사람들에게 많은 돈을 나누어주고 10만 냥이 남게 되자 변씨에게 몽땅 다 갚는다.&lt;/p&gt;
+
+&lt;p&gt;이에 변씨는 깜짝 놀라며 돈을 다시 돌려주려고 했지만 허생은 거절했고 이를 계기로 허생과 인연을 맺게 된다. 얼마 뒤 변씨가 어영청 대장인 이완 대장에게 허생의 얘기를 하자 이완 대장이 놀라며 허생을 찾아간다.이완이 허생에게 청나라에 대한 대책을 묻자 세 가지 해결책을 던졌는데 이완이 모두 어렵다는 답만 했다. 그러자 허생이 이완을 꾸짖으면서 칼로 찌르려고 위협했고 놀란 이완 대장은 뒷문으로 도망갔다. 그 다음날 이완이 다시 찾아가 봤지만 허생은 사라졌다.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Dec 2019 14:30:00 +0900</pubDate>
+        <link>http://localhost:4000//heosaeng-jeon/</link>
+        <guid isPermaLink="true">http://localhost:4000//heosaeng-jeon/</guid>
+        
+        <category>허생</category>
+        
+        <category>조선시대</category>
+        
+        <category>허생전</category>
+        
+        <category>고전소설</category>
+        
+        
+        <category>category-1</category>
+        
+      </item>
+    
+  </channel>
+</rss>

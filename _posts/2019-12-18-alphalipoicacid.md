@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /alphalipoicacid/
-title: '건기식 3 - 알파리포산(Alpha Lipoic Acid)'
+title: 건기식 3 - 알파리포산(Alpha Lipoic Acid)
 date: 2019-12-18 20:00:00 +09:00
 content_Id: 6
-feature: '/img/thumbnail/vitamin-01.jpeg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: /img/thumbnail/vitamin-01.jpeg
+background: /img/post/01/bg_heosang-jeon.jpg
 categories:
   - ketogenic
   - 건강기능성식품
@@ -15,7 +15,7 @@ tags:
   - 노화방지
   - 비타민
   - 두뇌부스팅
-description: '알파리포산은 비타민B와 함께 작용하는 강력한 항산화제로, 비타민 C,E 그리고 글루타티온을 환원시켜 세포손상을 막아주기 때문에 우리 체내에서도 꾸준히 생산되고 있는 화합물로 보충제로 섭취하면 내 몸의 피로도를 더 개선해주겠지.'
+description: 알파리포산은 비타민B와 함께 작용하는 강력한 항산화제로, 비타민 C,E 그리고 글루타티온을 환원시켜 세포손상을 막아주기 때문에 우리 체내에서도 꾸준히 생산되고 있는 화합물로 보충제로 섭취하면 내 몸의 피로도를 더 개선해주겠지.
 ---
 
 ![알파리포산](/img/post/01/alphalipoicacid.jpg)

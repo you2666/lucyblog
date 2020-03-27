@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /brewersyeast/
-title: '건기식 1 - 맥주효모(Brewer's Yeast)'
+title: 건기식 1 - 맥주효모(Brewer's Yeast)
 date: 2019-12-16 15:00:00 +09:00
 content_Id: 4
-feature: '/img/thumbnail/vitamin-01.jpeg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: /img/thumbnail/vitamin-01.jpeg
+background: /img/post/01/bg_heosang-jeon.jpg
 categories:
   - ketogenic
   - 건강기능성식품
@@ -15,12 +15,10 @@ tags:
   - 노화방지
   - 비타민
   - 두뇌부스팅
-description: '좋아지는 건 플라시보 효과인가 의심스럽지만, 정말 안 먹어보면 나빠지는 건 나빠지는 건 느낄 수 있어서 곧 다시 챙겨먹게 되는 개미지옥인 건기식의 세계. 내 영양제를 구매하면서 직장 동료들 것도 한 개씩 구매했다.'
+description: 좋아지는 건 플라시보 효과인가 의심스럽지만, 정말 안 먹어보면 나빠지는 건 나빠지는 건 느낄 수 있어서 곧 다시 챙겨먹게 되는 개미지옥인 건기식의 세계. 내 영양제를 구매하면서 직장 동료들 것도 한 개씩 구매했다.
 ---
 
 20대 중반부터 건강기능성식품을 아이허브를 꾸준히 이용했다. 그 당시엔 직구였는데, 지금은 많이 편해졌다. 처음 챙겨먹게 되면 한 두번이나 좀 다른가 싶지 먹다보면 좋은지 안 좋은지를 잘 몰랐다. 그러나 한동안 안 먹어보면 나빠지는 걸 느낄수 있어서 몇 달 지나지 않아 곧 다시 챙겨먹게 되는 그런 개미지옥이 바로 건강기능성식품이다. 안먹은 사람은 있어도 한 번만 먹는 사람은 없는 건기식의 세계로 초대한다. 내 영양제를 사면서 직장 동료들 것도 애정을 담아 한 개씩 구매했다. 총 4종으로 매일매일 꾸준히 잘 드셨으면 좋겠다.
-
-
 
 ![맥주효모](/img/post/01/brewersyeast.jpg)
 

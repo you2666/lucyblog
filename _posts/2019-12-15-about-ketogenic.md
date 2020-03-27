@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /about-ketogenic/
-title: '저탄수화물 고지방 (Low Carb.High Fat) 식이요법'
+title: 저탄수화물 고지방 (Low Carb.High Fat) 식이요법
 date: 2019-12-15 15:10:00 +09:00
 content_Id: 2
-feature: '/img/thumbnail/keto-exercise.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: /img/thumbnail/keto-exercise.jpg
+background: /img/post/01/bg_heosang-jeon.jpg
 categories:
   - ketogenic
 tags:
@@ -13,7 +13,7 @@ tags:
   - 저탄고지
   - LCHF
   - 두뇌부스팅
-description: '비만, 당뇨병, 고지혈증 등의 대사 이상을 예방하고 또 병을 호전시킬 수 있을 뿐 아니라 정전 상태에 빠진 뇌를 리부트할 수 있다고? 번아웃된 뇌을 회복시키는 두뇌 강화 프로그램에 도전해보자.'
+description: 비만, 당뇨병, 고지혈증 등의 대사 이상을 예방하고 또 병을 호전시킬 수 있을 뿐 아니라 정전 상태에 빠진 뇌를 리부트할 수 있다고? 번아웃된 뇌을 회복시키는 두뇌 강화 프로그램에 도전해보자.
 ---
 
 ### 저탄수화물 고지방 (Low Carb. High Fat, LCHF) 식이요법

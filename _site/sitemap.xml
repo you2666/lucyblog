@@ -1,67 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/start-ketogenic-story/</loc>
-<lastmod>2019-12-12T15:10:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/about-ketogenic/</loc>
-<lastmod>2019-12-15T15:10:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/advantages/</loc>
-<lastmod>2019-12-15T20:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/brewersyeast/</loc>
-<lastmod>2019-12-16T15:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/vitamin-c/</loc>
-<lastmod>2019-12-17T15:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/alphalipoicacid/</loc>
-<lastmod>2019-12-18T20:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/vitamin-e/</loc>
-<lastmod>2019-12-19T20:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/headstrong/</loc>
-<lastmod>2019-12-23T20:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/bulletproof/</loc>
-<lastmod>2019-12-24T20:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/aboutketogenicdiet/</loc>
-<lastmod>2020-01-01T16:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/fatforfuel/</loc>
-<lastmod>2020-01-02T06:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/buttercoffee/</loc>
-<lastmod>2020-01-10T06:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/femaleguide/</loc>
-<lastmod>2020-01-17T06:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/404</loc>
-</url>
-<url>
-<loc>http://localhost:4000/about</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/page2/</loc>
-</url>
+  
+    <url>
+      <loc>http://localhost:4000/buttercoffee/</loc>
+      
+        <lastmod>2020-01-17T06:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/fatforfuel/</loc>
+      
+        <lastmod>2020-01-02T06:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/aboutketogenicdiet/</loc>
+      
+        <lastmod>2020-01-01T16:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/bulletproof/</loc>
+      
+        <lastmod>2019-12-24T20:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/headstrong/</loc>
+      
+        <lastmod>2019-12-23T20:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/vitamin-e/</loc>
+      
+        <lastmod>2019-12-19T20:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/alphalipoicacid/</loc>
+      
+        <lastmod>2019-12-18T20:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/vitamin-c/</loc>
+      
+        <lastmod>2019-12-17T15:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/brewersyeast/</loc>
+      
+        <lastmod>2019-12-16T15:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/advantages/</loc>
+      
+        <lastmod>2019-12-15T20:00:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/about-ketogenic/</loc>
+      
+        <lastmod>2019-12-15T15:10:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/start-ketogenic/</loc>
+      
+        <lastmod>2019-12-12T07:30:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/heosaeng-jeon-2/</loc>
+      
+        <lastmod>2019-12-10T15:30:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/heosaeng-jeon/</loc>
+      
+        <lastmod>2019-12-10T14:30:00+09:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
 </urlset>

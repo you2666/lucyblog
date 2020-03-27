@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /start-ketogenic/
-title: '키토제닉에 도전하며'
+title: 키토제닉에 도전하며
 date: 2019-12-12 07:30:00 +09:00
 content_Id: 1
-feature: '/img/thumbnail/main-ketogenic.jpeg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: /img/thumbnail/main-ketogenic.jpeg
+background: /img/post/01/bg_heosang-jeon.jpg
 categories:
   - ketogenic
 tags:
@@ -13,7 +13,7 @@ tags:
   - 저탄고지
   - LCHF
   - 두뇌부스팅
-description: '내 몸 건강과 인지능력은 현저히 떨어지고 있다. 지금은 100세 시대인데, 그럼 앞으로 난 70년 동안 끊임없이 안 좋아지기만 한다고? 정전 상태에 빠진 두뇌를 리부트하고, 노화를 막기위한 키토제닉 도전기.'
+description: 내 몸 건강과 인지능력은 현저히 떨어지고 있다. 지금은 100세 시대인데, 그럼 앞으로 난 70년 동안 끊임없이 안 좋아지기만 한다고? 정전 상태에 빠진 두뇌를 리부트하고, 노화를 막기위한 키토제닉 도전기.
 ---
 
 ![세포이미지](/img/post/01/cell.jpg)

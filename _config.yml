@@ -1,44 +1,28 @@
-# Site settings
-title: 루우씨의 키토제닉이야기
-tagline: 내 몸에 키토제닉 식단 생체 실험 중
-description: "두뇌를 리부트 하기위해 나에게 맞는 저탄고지 식단을 찾고있습니다."
-url: "https://lucyketogenic.com"
-author:
-  name: "루우씨"
-  email: "ketogenic@kakao.com"
-  url: "https://lucyketogenic.com"
+title:              "키토제닉이야기"
+tagline:            "두뇌 부스팅을 위한 키토제닉 도전기"
+email:              "ketogenic@kakao.com"
+description:        "뇌를 더 효율적으로 사용하고, 더 건강하기 위해 저탄고지 식단을 실천하고 있습니다."
+author:             "루우씨"
+baseurl:            "/"
+url:                "https://lucyketogenic.com"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+twitter_username:   twitter_username
+instagram_username: instagram_username
+facebook_username:  facebook_username
+linkedin_username:  linkedin_username
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
-markdown: kramdown
-
-
-permalink: /:title
-paginate: 8
-
-
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Plugins
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
-
-# Custom variables
-version: "1.1.0"
-
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
 
 # 블로그 disqus shortname
 disqus:

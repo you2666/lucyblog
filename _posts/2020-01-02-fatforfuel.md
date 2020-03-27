@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /fatforfuel/
-title: 'Dr.머콜라의 <케톤하는 몸>
+title: Dr.머콜라의 <케톤하는 몸>
 date: 2020-01-02 06:00:00 +09:00
 content_Id: 11
-feature: '/img/thumbnail/fatforfuel.jpeg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: /img/thumbnail/fatforfuel.jpeg
+background: /img/post/01/bg_heosang-jeon.jpg
 categories:
   - ketogenic
   - bookreview
@@ -15,10 +15,8 @@ tags:
   - LCHF
   - 신진대사
   - 미토콘드리아
-description: '의학박사이자 세계적인 키토제닉 전문가 닥터 머콜라의 '케톤하는 몸(fatforfuel)'을 한 마디로 요약하면 '자신의 미토콘드리아를 바로 알고 대사요법으로 건강하기'가 되겠다. 아스프리와는 큰 그림에서는 비슷하지만, 더 엄격한 느낌이다.'
+description: 의학박사이자 세계적인 키토제닉 전문가 닥터 머콜라의 '케톤하는 몸(fatforfuel)'을 한 마디로 요약하면 '자신의 미토콘드리아를 바로 알고 대사요법으로 건강하기'가 되겠다. 아스프리와는 큰 그림에서는 비슷하지만, 더 엄격한 느낌이다.
 ---
-
-
 
 ![케톤하는몸1](/img/post/02/fatforfuel-1.jpeg)
 

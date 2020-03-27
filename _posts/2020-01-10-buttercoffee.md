@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /buttercoffee/
-title: '사 먹는 vs 만들어먹는 방탄커피'
+title: 사 먹는 vs 만들어먹는 방탄커피
 date: 22020-01-10 06:00:00 +09:00
 content_Id: 12
-feature: '/img/thumbnail/cafe.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: /img/thumbnail/cafe.jpg
+background: /img/post/01/bg_heosang-jeon.jpg
 categories:
   - ketogenic
 tags:
@@ -14,7 +14,7 @@ tags:
   - 두뇌부스팅
   - 목초버터
   - MCT오일
-description: '가루로 된 방탄커피는 모두 제대로 된 제품이 아니다. 그리고 사먹는 방탄커피 중에도 제대로 된 제품이 없다고 알고 있었는데, 저탄고지 카페에서 적극적으로 마케팅 하는 걸 허락할 걸 보면 생각이 많아진다.'
+description: 가루로 된 방탄커피는 모두 제대로 된 제품이 아니다. 그리고 사먹는 방탄커피 중에도 제대로 된 제품이 없다고 알고 있었는데, 저탄고지 카페에서 적극적으로 마케팅 하는 걸 허락할 걸 보면 생각이 많아진다.
 ---
 
 ![키토베이스 방탄커피](/img/post/02/buttercoffee.jpeg)

@@ -1,18 +1,18 @@
 ---
 layout: post
 permalink: /aboutketogenicdiet/
-title: '키토제닉이란? 간헐적 단식같은 건가요?'
+title: 키토제닉이란? 간헐적 단식같은 건가요?
 date: 2020-01-01 16:00:00 +09:00
 content_Id: 10
-feature: '/img/thumbnail/ketogenicdiet.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: /img/thumbnail/ketogenicdiet.jpg
+background: /img/post/01/bg_heosang-jeon.jpg
 categories:
   - ketogenic
 tags:
   - 키토제닉
   - 저탄고지
   - 두뇌부스팅
-description: '키토제닉 다이어트는 간헐적 단식도 같이 해야하는 것 아니냐, 혹은 그게 그거 아니냐는 이야기를 듣곤 한다. 사실 주변에서 여러 얘기를 듣는 우리엄마가 한 말이다. 저탄수화물 고지방의 식단과 간헐적 단식은 무슨 관련이 있을까.'
+description: 키토제닉 다이어트는 간헐적 단식도 같이 해야하는 것 아니냐, 혹은 그게 그거 아니냐는 이야기를 듣곤 한다. 사실 주변에서 여러 얘기를 듣는 우리엄마가 한 말이다. 저탄수화물 고지방의 식단과 간헐적 단식은 무슨 관련이 있을까.
 ---
 
 

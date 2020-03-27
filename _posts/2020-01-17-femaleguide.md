@@ -1,11 +1,11 @@
 ---
 layout: post
 permalink: /buttercoffee/
-title: '키토제닉 시작, 여자가 알아야 할 것'
+title: 키토제닉 시작, 여자가 알아야 할 것
 date: 2020-01-17 06:00:00 +09:00
 content_Id: 13
-feature: '/img/thumbnail/femaleguide.jpg'
-background: '/img/posts/01/bg_heosang-jeon.jpg'
+feature: /img/thumbnail/femaleguide.jpg
+background: /img/post/01/bg_heosang-jeon.jpg
 categories:
   - ketogenic
 tags:
@@ -14,7 +14,7 @@ tags:
   - 두뇌부스팅
   - 목초버터
   - MCT오일
-description: '내가 키토제닉 정보를 접하게 된 사람은 성인, 남자, 외국인이었다. 성인 여자 동양인은 좀 다를 텐데. 일반 커뮤니티에서 공유되는 정도이다. 더 많은 사람이 하게 되면 더 좋은 정보가 계속 공유되길 바래본다.'
+description: 내가 키토제닉 정보를 접하게 된 사람은 성인, 남자, 외국인이었다. 성인 여자 동양인은 좀 다를 텐데. 일반 커뮤니티에서 공유되는 정도이다. 더 많은 사람이 하게 되면 더 좋은 정보가 계속 공유되길 바래본다.
 ---
 
 ### 여성(엄마와 나)를 위한 키토제닉 정보
